@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "my eyes are up here|eyes are up here",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "¡Mis ojos están aquí arriba!",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

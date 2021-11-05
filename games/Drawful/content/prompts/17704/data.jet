@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "la desolacion de smaug|desolación de smaug|desolacion de smaug|la desolación de smog|la desolacion de smog|desolación de smog|desolacion de smog",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "La desolación de smaug",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

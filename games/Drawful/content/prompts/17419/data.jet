@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "una tarjeta MasterCard|la tarjeta MasterCard",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Tarjeta MasterCard",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

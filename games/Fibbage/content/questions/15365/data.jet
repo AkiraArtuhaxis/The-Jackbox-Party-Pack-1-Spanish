@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "Libertad,Pequeño Bebé Malo,¡Que vivan las Nalgas!,Ropa Interior,Papi,¡Nunca moriré!,Holis,Tut Tut,Wowza,Soy la Mami,Haba-Duey,Justicia,Malito,Lo Adoras,Huzzah,Lesión Aprendida,Atrevido,¡Soy el rey!",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "nalguear",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "Nalgueado",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "Nalgueada,¡Nalgueado!,¡Nalgueada!,Nalgueado!,Nalgueada!",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "A finales del siglo XVII, Londres fue víctima de un hombre llamado Whipping Tom, que nalgueaba a la gente al azar y gritaba “¡<BLANK>!”",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "339680_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "339683_0",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

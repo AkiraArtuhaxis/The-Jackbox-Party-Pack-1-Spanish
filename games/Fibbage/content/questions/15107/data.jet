@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "Casa del Placer,El Frijol de la Reina,Muslos Reales,Masajeador Personal de la Reina,Las Joyas de la Familia,Palacio Vibrador,Júbilo de Diamante,Que Viva la Reina,La Reina Virgen,El Sombrero de la Reina,El Espectro Real,Penes de Snowdon,Logro Magistral,La Majestad de Su Majestad,Espada del Caballero,El Guardia Estoico,,El Trono,Ayuda Real",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "reina",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "Buckingham Phallus",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "buckingam phallus,buckingham fallus,buckingham phalus",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "El nombre del consolador que se asemeja a la reina Isabel II que vende la empresa Masturpieces.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "334707_1",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "334710_2",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

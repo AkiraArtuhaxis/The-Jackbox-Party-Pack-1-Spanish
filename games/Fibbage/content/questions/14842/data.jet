@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "Salsa de Frijol,Mister Bean,Señor Frijol,Frijolero Kirk,Profesor Frijol,Hermano de Bush,Barry Frijol,Fruta Mágica,Frijol Salchicha,Frijol Campus,Rey Fibra,Frijolero el Vaquero,Salsa Frijolera,Frijolificador,Pedorreo,Van Camp,Frijilian,Fruta Mágica",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "frijoles",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "Capitán Frijol",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "Capt. Frijol,Cptn. Frijol,Cpt. Frijol,Capitan Frijol",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Un hombre en Gales, Reino Unido, está tan obsesionado con los frijoles horneados que en 1991 cambió legalmente su nombre a (traducido) <BLANK>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "328834_1",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "328837_0f",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

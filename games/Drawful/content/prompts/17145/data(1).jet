@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "dog with xray vision|a dog with xray vision|a dog with x-ray vision",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Perro con visión de rayos X",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

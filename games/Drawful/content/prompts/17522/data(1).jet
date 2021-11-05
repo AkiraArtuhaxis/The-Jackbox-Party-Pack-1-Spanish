@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "weiner dog golfer|weener dog golfer|dachshund golfer",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "golfista de perros salchicha",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "370167_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

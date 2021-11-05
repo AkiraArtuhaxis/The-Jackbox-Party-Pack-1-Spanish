@@ -1,0 +1,53 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "hacer caca,leer,cantar,orar,pintar,desvestirse,eructar,confesar sus pecados,hacer malabares,llorar,cocinar,abrazar,coser,bañarse,leer,tomar",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "Alejandro el Grande",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "afeitarse",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "afeitarse sus caras,afeitarse sus barbas,afeitarse su vello vacial,echarse una afeitada,hacerse una afeitada,afeitar",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Alejandro el Grande hacía que sus hombres tuviesen que <BLANK> antes de una batalla.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "319399_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

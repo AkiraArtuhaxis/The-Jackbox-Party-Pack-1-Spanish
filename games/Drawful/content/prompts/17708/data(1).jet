@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "breekfast in bed|braekfast in bed",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Desayuno en la cama",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "playing 7 minutes in heaven|seven minutes in heaven|7 minutes in heaven",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Jugar siete minutos en el cielo",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

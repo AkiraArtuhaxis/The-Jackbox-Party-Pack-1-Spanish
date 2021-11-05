@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Rey del perreo",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "369172_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

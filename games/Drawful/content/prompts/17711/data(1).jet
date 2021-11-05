@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Child’s drawing of her family|childs drawing of family|a Child’s drawing of his family",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Dibujo de un niño de su familia",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

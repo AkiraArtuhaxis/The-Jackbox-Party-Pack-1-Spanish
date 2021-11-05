@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "El Festival de la tarta|Festival de tarta|Festival de tartas|El Festival de tarta|El Festival de tartas",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Festival de la tarta",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "África,Indiana,los casinos,Canadá,los burdeles,la tierra media,las islas,las cuevas,su propio hogar,cualquier lugar,Greenland,el centro de la tierra,la casa de su abuelita,lo de Papa John's para buscar pizza,Stonehenge,la Isla Ellis,Universal Studios Orlando",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "Schwarz",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "el espacio exterior",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "el espacio,espacio exterior",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Cuando el futbolista Stefan Schwarz firmó con Sunderland en 1999, el equipo se aseguró de que su contrato le prohibiera específicamente viajar a <BLANK>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "329325_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "329328_0",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

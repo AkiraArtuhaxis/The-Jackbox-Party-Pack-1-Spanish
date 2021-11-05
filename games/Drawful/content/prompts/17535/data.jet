@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "viaje de malvavisco",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Viajes de malvavisco",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "370196_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "barba abeja|una barba de abejas|una barba abeja",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Barba de abejas",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

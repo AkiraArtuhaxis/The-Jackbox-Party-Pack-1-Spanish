@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "El Pezón del Diablo,El Puño de la Muerte,Anarquía,Hacedor de Viudas,Aliento de Dragón,Pelo en el Pecho,Fuerza Devastadora,Todos Morimos Solos,Polvo Mágico,Glotón Enojado,Furia del Demonio,Suicidio,Trementina,Elixir de Papá,Pesadilla de Satán,Miedo Épico,Diente de León,Sally",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "Brewmeister",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "Armagedón",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "armagedon",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Con un 65% de alcohol por volumen, Brewmeister elabora la cerveza más fuerte del mundo, que lleva este nombre.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "334799_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "334802_0",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

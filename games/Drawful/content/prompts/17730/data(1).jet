@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "It is raining heads|its raining heads|raining heads",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Llueven cabezas",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

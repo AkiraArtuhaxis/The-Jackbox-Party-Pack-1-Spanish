@@ -1,0 +1,53 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "Bañera,Furgoneta,Cueva,Almacén,Casa de Denny,Zoo,Tienda de Todo por un Dólar,Caja,Partido de Fútbol,Granero,Campo de Tiro,Hollo,Alcantarilla,Piscina,Cascada,Tren,vieja tienda de Blockbuster",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "Calvario",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "Pub",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "un pub",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Patrocinado por la Iglesia Luterana del Calvario, la gente en Fort Worth Texas ahora puede asistir a la poco convencional Iglesia en un/a <BLANK>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "329604_1",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

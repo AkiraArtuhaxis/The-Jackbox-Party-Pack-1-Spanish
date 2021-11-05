@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "frienemy|frenemies|a frenemy|a frienemy",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Amienemigo",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "370806_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

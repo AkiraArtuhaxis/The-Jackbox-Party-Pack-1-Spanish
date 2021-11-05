@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "picnic de ciclopes|un picnic de cíclopes|un picnic de ciclopes",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Picnic de cíclopes",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

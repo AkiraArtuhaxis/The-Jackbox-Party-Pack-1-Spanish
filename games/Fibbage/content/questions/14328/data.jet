@@ -1,0 +1,53 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "tacos,libros,historietas,pelucas,cupones,masajes en la espalda,zapatos,spray para el pelo,cinta adhesiva,baterías,clases de actuación,mantas,poemas,armas,motosierras,botones,cucharas antiguas,gasolina",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "John Larroquette",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "marijuana",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "hierba,pasto,mary jane,droga,marihuna,marijuana",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Por poner su voz en <i>Texas Chainsaw Massacre<\/i>, John Larroquette no fue pagado con dinero, sino con <BLANK>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "318526_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

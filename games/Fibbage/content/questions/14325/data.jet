@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "rey,ardilla,persona sin hogar,payaso,pez,vendedor telefónico,mimo,trombonista,fantasma,luchador de sumo,espía,mucama,chef,bibliotecario,oso,sacerdote,profesor de gimnasia,gnomo de jardín",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "Miedo",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "pato",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Anatidaefobia es el temor de que en algún lugar del mundo un/a <BLANK> te está observando.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "318471_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "318474_1f",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

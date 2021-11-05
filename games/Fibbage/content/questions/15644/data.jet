@@ -1,0 +1,53 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "almuerzo en bolsa,puerta de garaje,aspiradora,puntero láser,katana,motosierra,mono,globo de agua,calzón chino,bravucón,pelota de quemados,col de Bruselas,balancín,hermano,VCR,teléfono inteligente,mazo,monja",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "herido",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "castillo inflable",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "castillo hinchable,casa de rebotes,casa rebotable,castillo de rebotes,castillo rebotable",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Según un estudio de 2010, un niño en los EE.UU. era herido cada 46 minutos por un/a <BLANK>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "346121_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Frankenstein’s office|Frankenstein office",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Oficina del Dr Frankenstein",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "fritura de maíz,cerveza,tubo de dentífrico,bola de boliche,calcetín,lámpara,espejo,máquina de escribir,espantapájaros,casa,roca,bombilla,piano,piñata,maní,bote de basura,estatua,retrato",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "Ecuador",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "talco para los pies",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "marca de talco para los pies,medicina para los pies,talco,talco de pies,talco para pies",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "En 1967, un pequeño pueblo de Ecuador eligió como alcalde a un objeto inanimado. El alcalde electo era un/a <BLANK>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "318324_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "318327_1",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

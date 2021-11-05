@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "Siesta,Preparación de Impuestos,Rastrilleo,Curling,Dibujo,Sentado,Pintura,Aplauso,Flossing,Boliche,Baño,Limpieza,Flotación,Caída,Antigüedad,Baile Cuadrado,Caricia",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "fundador",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "Planchado",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Phil Shaw es el fundador del extraño deporte llamado <BLANK> extremo/a.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "333232_1",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "333235_0",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

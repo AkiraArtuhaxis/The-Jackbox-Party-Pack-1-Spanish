@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "bris,divorcio,boda,abogado,prostituta,terapeuta,cohete,conducto radicular,perro caliente,tubo de Fenilefrina,cirugía plástica,entrenador de vida,niño adoptado,dominatriz,vasectomía,payaso de fiesta,taser",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "cupón",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "funeral",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "servicio funerario,servicio funereareo",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Los Lehigh Valley IronPigs, un equipo de béisbol de las ligas menores, realizó un concurso en el que el premio fue un vale para un/a <BLANK>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "322331_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "322334_0",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

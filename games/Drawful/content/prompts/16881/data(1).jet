@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "ninja closet|ninjas closet|a ninja closet|a ninjas closet|a ninja’s closet",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Clóset de Ninja",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

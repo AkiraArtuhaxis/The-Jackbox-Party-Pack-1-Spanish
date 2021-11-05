@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "a smelly ceo",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Jefe maloliente",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "370548_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

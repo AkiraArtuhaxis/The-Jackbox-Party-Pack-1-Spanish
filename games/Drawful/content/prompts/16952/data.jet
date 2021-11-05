@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "tiempos oscuros|los tiempososcuros|tiempososcuros|el tiempo oscuro|tiempo oscuro|el tiemposcuro",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Los tiempos oscuros",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

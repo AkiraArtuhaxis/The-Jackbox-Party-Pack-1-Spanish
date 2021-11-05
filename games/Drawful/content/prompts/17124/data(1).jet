@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "a prison shiv",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Navaja de prisión",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "369249_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

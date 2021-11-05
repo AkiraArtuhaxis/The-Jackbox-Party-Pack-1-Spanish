@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "Gran Madera,Lamehueso,Woodcock,Tata,Vaginalmohada,Bosom,Nunt,Tetarratón,Castor,Gran Viento,Chub,Chupón,Colgón,la Humedad,Vírgenes,Grundle,Los Agujeros de Gloria,Bulger",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "sucio",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "Gloria en la Mañana",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "El Ayuntamiento de Lehi de Utah aprobó una solicitud para cambiar el nombre de Camino de <BLANK> porque sonaba un poco sucio.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "323708_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "323711_0f",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

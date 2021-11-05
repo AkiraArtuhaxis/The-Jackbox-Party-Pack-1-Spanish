@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "una after party|afterparty|una afterparty|la after party|el afterparty|after",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "El After",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

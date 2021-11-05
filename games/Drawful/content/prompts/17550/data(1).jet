@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "a game show for giants",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Programa de juegos para gigantes",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "370226_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

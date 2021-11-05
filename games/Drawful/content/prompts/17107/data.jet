@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "cañon de camisetas|un cañón de camisetas|un cañon de camisetas",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Cañón de camisetas",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

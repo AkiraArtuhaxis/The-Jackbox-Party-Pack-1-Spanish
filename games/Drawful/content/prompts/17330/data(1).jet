@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "a minotaur gravestone|minotaur grave|a minotaur grave",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Tumba de minotauro",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

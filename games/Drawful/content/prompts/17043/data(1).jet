@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "I am so sorry|Im so sorry|Im sorry|I’m sorry",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Lo siento mucho",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

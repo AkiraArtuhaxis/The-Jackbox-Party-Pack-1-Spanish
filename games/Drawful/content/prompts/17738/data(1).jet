@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "person that doesn’t pick up dog poop",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Una persona que no levanta la caca de su perro",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

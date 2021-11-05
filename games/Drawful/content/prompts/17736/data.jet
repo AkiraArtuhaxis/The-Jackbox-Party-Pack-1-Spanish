@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Estás despedido!|¡Estas despedido!|Estas despedido!|Estás despedido|Estas despedido",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "¡Estás despedido!",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

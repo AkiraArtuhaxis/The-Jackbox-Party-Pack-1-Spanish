@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "a stick figure with real hands",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Figura de palo con manos reales",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "370250_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

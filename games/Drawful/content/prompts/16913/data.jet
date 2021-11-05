@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "ex ombre lobo|un ex hombre lobo",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Ex hombre lobo",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "wood nickels|wooden nickel|wood nickel",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Monedas de madera",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

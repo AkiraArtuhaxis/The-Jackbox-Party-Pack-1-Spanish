@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "a strong man pulling a truck",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Hombre fuerte tirando de un camión",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "370763_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

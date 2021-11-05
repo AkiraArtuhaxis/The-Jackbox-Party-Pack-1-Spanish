@@ -1,0 +1,53 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "donas,papas fritas,Snickers,naranjas,tacos,Whoppers,ositos de gomita,Tic Tacs,bananas,maníes,Cheetos,palitos de pan,alas de pollo,pepinillos,pastelitos,zanahorias bebé,rebanadas de pizza,palitos de pescado",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "Bolt",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "McNuggets",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "McNuggets de Pollo",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Debido a que encontró que la comida china era extraña, durante los Juegos Olímpicos de Beijing 2008, el velocista Usain Bolt dijo que terminó comiendo 1.000 <BLANK>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "329054_1",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

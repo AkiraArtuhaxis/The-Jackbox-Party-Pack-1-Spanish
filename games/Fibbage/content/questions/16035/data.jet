@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "estatuas,césped de fútbol,confeti,salsa BBQ,maquillaje,balas,una pelucam,galletas de azúcar,un telesketch,aerosol de pimienta,comida para aves,ambientadores,castillos de arena,marcos de cuadros,arena para gato,pintura,especias para cocinar,platos",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "cenizas",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "un arrecife",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "arrecifes",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "George Frankel es el director ejecutivo de una empresa con sede en Georgia que convierte las cenizas de tu pariente muerto en <BLANK>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "354733_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "354736_0f",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

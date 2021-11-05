@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "Limpiaparabrisas,Come-Bocadillos,Cagador,Abrazador,Horneador,Descarado,Silbador,Tira Pedos,Dormilón,Cantante Tirolés,Meón,Belcher,Limpiador,Lavavajillas,Soplador,Encerador,Bañador,Organizador de CDs",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "Glastonbury",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "Cosquillas",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Entre mediados y finales de la década de los noventa, la ciudad de Glastonbury estaba a la caza del extraño intruso conocido como “El <BLANK>”.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "338645_0f",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "338648_0",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

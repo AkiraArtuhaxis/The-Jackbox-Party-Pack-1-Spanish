@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "baby mamma|a baby mama|a baby mamma",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Bebé mamá",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

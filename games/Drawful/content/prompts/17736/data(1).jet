@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "You’re fired|you are fired|youre fired|your fired",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "¡Estás despedido!",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

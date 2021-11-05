@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Sherlock Holmes con nauseas|Sherlock con náuseas|Sherlock con nauseas|un Sherlock Holmes con náuseas|un Sherlock Holmes con nauseas|un Sherlock con náuseas|un Sherlock con nauseas",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Sherlock Holmes con náuseas",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "370220_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

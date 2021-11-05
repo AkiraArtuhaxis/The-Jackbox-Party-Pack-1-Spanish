@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Hitler sin un bigote|Hitler sin ningún bigote|Hitler sin ningun bigote",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Hitler sin bigote",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

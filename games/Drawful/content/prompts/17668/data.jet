@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Un programa por la noche conducido por una mujer",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Un programa de medianoche conducido por una mujer",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

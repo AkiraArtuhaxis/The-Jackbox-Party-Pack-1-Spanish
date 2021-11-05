@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "a Grower not a shower",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "No es grande pero crece",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "368911_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

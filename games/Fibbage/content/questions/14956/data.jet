@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "Dixie,Montaña,Hola,Calavera,Shaggy,Lucy,Sexy,Señorita,Wupsi,Chica,Señora,Diane,Shelly,Slappy,Arenita,Loopy,Skimpy,Booby",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "Doo",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "Ruby",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "La hermana de Scooby-Doo, <BLANK>-Doo, es la madre de Scrappy-Doo.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "331240_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "331243_2",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

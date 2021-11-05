@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "hidden whale|hidding whale|a hiding whale|a hidden whale|a hiden whale|hiden whale",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Ballena escondida",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

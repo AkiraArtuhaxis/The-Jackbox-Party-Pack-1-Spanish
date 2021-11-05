@@ -1,0 +1,53 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "Freddy Krueger,Drácula,Aquaman,Homero Simpson,Ronald Reagan,La Mujer Maravilla,una Enfermera Sexy,Vincent Price,Rainbow Brite,Hulk Hogan,Bill Clinton,Cher,Mr. T,El Hombre Araña,un gato,Wayne Newton,Bob Costas,Marilyn Monroe",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "Halloween",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "él mismo",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "George Bush,George H. W. Bush,George H.W. Bush,George HW Bush,George H W Bush,su propio yo,el presidente bush,el presidente george h.w. bush,el presidente george h. w. bush,el presidente george HW bush,el presidente george H W bush",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "En 1988, George H. W. Bush celebró Halloween vistiéndose como <BLANK>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "324135_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

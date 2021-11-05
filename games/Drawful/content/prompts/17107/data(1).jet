@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "t-shirt gun|a t-shirt gun|a tshirt gun",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Cañón de camisetas",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "camel toes|a camel toe|camels toe",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Pie de camello",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "368645_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

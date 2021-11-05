@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "reglas,papel,computadoras,el Inglés,podios,globos,calculadoras,gestos con las manos,paletas,escritorios,sillas,hojas de respuestas,videos,vasos,pizarrones,borradores,notas,el baño",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "Academia",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "lapiceras rojas",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "tinta roja,lapiceras de tinta roja,una lapicera roja,una lapicera de tinta roja,cualquier lapicera roja",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Objeto que se prohibió a los profesores de Mounts Bay Academy en Inglaterra en 2014.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "354946_1",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "354949_0",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

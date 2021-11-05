@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Toast!|Toast!!|toast!!!|toast!!!!|toast",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "¡¡¡¡¡¡Brindis!!!!!!",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

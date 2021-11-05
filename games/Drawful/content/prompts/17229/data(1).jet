@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "dog dreaming about ghosts",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Un perro soñando con fantasmas",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

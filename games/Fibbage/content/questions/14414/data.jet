@@ -1,0 +1,53 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "Aquaman,arcoíris,Pie Grande,duendes,Poseidón,Atlantis,el herpes,cerdos voladores,hechizos malévolos,lluvia de albóndigas,malas reseñas,accidentes de tejo,ataques de bazuca,jets,El Armagedón,Barba Negra,platija,el Titanic",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "Cruceros",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "el monstruo del Lago Ness",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "nessie,nessie el monstruo del lago ness,nessie, el monstruo del lago ness,nessy,nessy el monstruo del lago ness,nessy, el monstruo del lago ness,el monstruo del lago nes,el monstruo del lagoness,el monstruo de lago ness,monstruos del lago ness",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Los cruceros Jacobite compraron un seguro inusual para protegerlo del daño causado por <BLANK>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "320364_1",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "narices,dragones,bananas,soles,peines,espadas,pelotas de fútbol,furgonetas,lenguas,tacones altos,banditas elásticas,guitarras,chimeneas,condones,cortadoras de césped,dardos,palos,bikinis",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "Isla de Man",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "piernas",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "La bandera de la Isla de Man muestra tres <BLANK> interconectados/as.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "317979_4",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

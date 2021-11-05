@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "a Fun exorcism",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Exorcismo divertido",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "369454_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

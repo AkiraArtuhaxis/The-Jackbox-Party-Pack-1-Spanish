@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "adolescentes,entrenadores de perros,sacerdotes,deportistas,niñeras,plomeros,artistas de caricatura,cantantes de ópera,los muertos,trabajadores del carnaval,conductores de camiones de helado,personas sin hogar,artistas del metro,camioneros,bebés,millonarios,lustradores de zapatos,mimos",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "Rumano",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "brujas",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "adivinos,adivinas,sus brujas,brujas,bruja,astrólogos",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "En 2013, el gobierno rumano, que enfrentaba dificultades financieras, comenzó a cobrar impuestos a un grupo de personas a las que nunca antes habían cobrado impuestos. Empezaron a cobrar impuestos a <BLANK>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "349327_0f",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "349330_1",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

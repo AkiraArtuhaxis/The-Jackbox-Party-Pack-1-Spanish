@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Hombre enojado bajo la cama",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Hombre enojado debajo de la cama",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

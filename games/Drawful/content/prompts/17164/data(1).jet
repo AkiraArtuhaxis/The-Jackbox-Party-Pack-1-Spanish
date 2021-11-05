@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "drops of jupiter",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Llanto intergaláctico de un tren",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "369432_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

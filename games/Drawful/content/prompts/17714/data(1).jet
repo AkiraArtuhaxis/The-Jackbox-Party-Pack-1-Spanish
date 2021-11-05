@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "cinamon roll bracelet|a cinnamon roll bracelet",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "brazalete de canela",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "la pandilla de ratas|una pandilla de ratas",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Pandilla de ratas",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

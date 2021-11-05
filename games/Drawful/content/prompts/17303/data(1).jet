@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "season 2 of the Wire|the Wire season 2|the Wire season two",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Temporada dos de The Wire",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "369710_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

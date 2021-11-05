@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "No me agradas|Tú no me caes bien|Tu no me caes bien|Tú no me agradas|Tu no me agradas",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "No me caes bien",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

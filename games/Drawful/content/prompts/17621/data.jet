@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "vomitando sobre un bebe|vomitar sobre un bebé|vomitar sobre un bebe",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Vomitando sobre un bebé",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "370681_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

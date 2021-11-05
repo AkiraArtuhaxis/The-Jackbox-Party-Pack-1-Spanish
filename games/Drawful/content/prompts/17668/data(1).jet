@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "A late nite talk show hosted by a woman|late night talkshow hosted by a woman|a late night talkshow hosted by a woman|a late nite talkshow hosted by a woman",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Un programa de medianoche conducido por una mujer",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

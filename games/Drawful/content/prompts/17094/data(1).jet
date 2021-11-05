@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "underwearwolves|underwearwolf|underwear wolf",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Lobos en ropa interior",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

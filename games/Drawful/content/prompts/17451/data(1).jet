@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "an ikea tool|a ikeal tool",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Herramienta de IKEA",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

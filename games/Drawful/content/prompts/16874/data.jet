@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "cerebro en caja|un cerebro en una caja|un cerebro en caja",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Cerebro en una caja",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

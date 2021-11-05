@@ -1,0 +1,4029 @@
+{
+    "episodeid": 1209,
+    "items": [
+        {
+            "id": 17805,
+            "text": "envidia del auto"
+        },
+        {
+            "id": 17804,
+            "text": "violación del código de edificación"
+        },
+        {
+            "id": 17803,
+            "text": "espantapájaros emplacado"
+        },
+        {
+            "id": 17802,
+            "text": "parásito sorpresa"
+        },
+        {
+            "id": 17801,
+            "text": "Esta alfombra mágica está sucia"
+        },
+        {
+            "id": 17800,
+            "text": "farmacia"
+        },
+        {
+            "id": 17786,
+            "text": "dibujo absolutamente horrible de un gato"
+        },
+        {
+            "id": 17785,
+            "text": "Ganso"
+        },
+        {
+            "id": 17784,
+            "text": "Cinco palabras"
+        },
+        {
+            "id": 17783,
+            "text": "gorro para perrito con una estrella"
+        },
+        {
+            "id": 17782,
+            "text": "Niño pelirrojo"
+        },
+        {
+            "id": 17781,
+            "text": "Solo ojos"
+        },
+        {
+            "id": 17780,
+            "text": "Twitch"
+        },
+        {
+            "id": 17779,
+            "text": "¡¡¡¡¡¡Brindis!!!!!!"
+        },
+        {
+            "id": 17778,
+            "text": "Pelea a cachetazos"
+        },
+        {
+            "id": 17777,
+            "text": "Firma de abogados"
+        },
+        {
+            "id": 17776,
+            "text": "Sonrisa satisfactoria"
+        },
+        {
+            "id": 17775,
+            "text": "bomba de pedos"
+        },
+        {
+            "id": 17774,
+            "text": "Puño de pierna"
+        },
+        {
+            "id": 17773,
+            "text": "Perdedores"
+        },
+        {
+            "id": 17772,
+            "text": "¡¡Cuidado!! ¡¡¡Nerds!!!"
+        },
+        {
+            "id": 17771,
+            "text": "Asalto de un banco"
+        },
+        {
+            "id": 17770,
+            "text": "Serpiente en una lavadora"
+        },
+        {
+            "id": 17769,
+            "text": "Niño salvaje"
+        },
+        {
+            "id": 17768,
+            "text": "Inglés como segundo idioma"
+        },
+        {
+            "id": 17767,
+            "text": "No llevar ropa interior"
+        },
+        {
+            "id": 17766,
+            "text": "Jugar siete minutos en el cielo"
+        },
+        {
+            "id": 17765,
+            "text": "El juego de la botella"
+        },
+        {
+            "id": 17764,
+            "text": "hombre de los caramelos"
+        },
+        {
+            "id": 17763,
+            "text": "Gran tabaco"
+        },
+        {
+            "id": 17762,
+            "text": "Canción de amor"
+        },
+        {
+            "id": 17761,
+            "text": "x-files"
+        },
+        {
+            "id": 17760,
+            "text": "Solo con mis pensamientos"
+        },
+        {
+            "id": 17759,
+            "text": "Montaña espacial"
+        },
+        {
+            "id": 17758,
+            "text": "Mitad caballo mitad enfermera"
+        },
+        {
+            "id": 17757,
+            "text": "Violencia"
+        },
+        {
+            "id": 17756,
+            "text": "Amor y básquetbol"
+        },
+        {
+            "id": 17755,
+            "text": "Festival de la tarta"
+        },
+        {
+            "id": 17754,
+            "text": "Carne asada"
+        },
+        {
+            "id": 17753,
+            "text": "Puma"
+        },
+        {
+            "id": 17752,
+            "text": "Saliendo en pantalones deportivos"
+        },
+        {
+            "id": 17751,
+            "text": "Museo de cera"
+        },
+        {
+            "id": 17750,
+            "text": "Boceto policial de un asesino"
+        },
+        {
+            "id": 17749,
+            "text": "Paquete muy grande"
+        },
+        {
+            "id": 17748,
+            "text": "Caracol con sobre"
+        },
+        {
+            "id": 17747,
+            "text": "Sala de espera"
+        },
+        {
+            "id": 17745,
+            "text": "Helicóptero familiar"
+        },
+        {
+            "id": 17744,
+            "text": "Foca voladora"
+        },
+        {
+            "id": 17743,
+            "text": "Me rindo"
+        },
+        {
+            "id": 17742,
+            "text": "La tierra antes del tiempo"
+        },
+        {
+            "id": 17741,
+            "text": "Avatar"
+        },
+        {
+            "id": 17740,
+            "text": "Siesta Disco"
+        },
+        {
+            "id": 17739,
+            "text": "Mala conducta "
+        },
+        {
+            "id": 17738,
+            "text": "Una persona que no levanta la caca de su perro"
+        },
+        {
+            "id": 17737,
+            "text": "Rebobinar"
+        },
+        {
+            "id": 17736,
+            "text": "¡Estás despedido!"
+        },
+        {
+            "id": 17735,
+            "text": "IMDb"
+        },
+        {
+            "id": 17734,
+            "text": "Meneo"
+        },
+        {
+            "id": 17733,
+            "text": "Alguien con pretzels saliéndole de la nariz"
+        },
+        {
+            "id": 17732,
+            "text": "Príncipe enterrado"
+        },
+        {
+            "id": 17731,
+            "text": "Madera muerta"
+        },
+        {
+            "id": 17730,
+            "text": "Llueven cabezas"
+        },
+        {
+            "id": 17729,
+            "text": "Salir por la izquierda"
+        },
+        {
+            "id": 17728,
+            "text": "No puedo dormir por los pájaros"
+        },
+        {
+            "id": 17727,
+            "text": "Trabajar desde casa"
+        },
+        {
+            "id": 17726,
+            "text": "Caramelo amargo"
+        },
+        {
+            "id": 17725,
+            "text": "Escritorio de pie"
+        },
+        {
+            "id": 17724,
+            "text": "Agente de película"
+        },
+        {
+            "id": 17722,
+            "text": "Bolsa con dientes aterradores"
+        },
+        {
+            "id": 17721,
+            "text": "Monstruo sombra"
+        },
+        {
+            "id": 17720,
+            "text": "Gigante con un bebé pequeño"
+        },
+        {
+            "id": 17719,
+            "text": "Niñera asombrosa"
+        },
+        {
+            "id": 17718,
+            "text": "Espiando a Alemania"
+        },
+        {
+            "id": 17717,
+            "text": "Documento falsificado"
+        },
+        {
+            "id": 17716,
+            "text": "Ballena escondida"
+        },
+        {
+            "id": 17715,
+            "text": "El juego de la vida"
+        },
+        {
+            "id": 17714,
+            "text": "brazalete de canela"
+        },
+        {
+            "id": 17713,
+            "text": "Perdiendo en el ahorcado"
+        },
+        {
+            "id": 17712,
+            "text": "Gemelos idénticos"
+        },
+        {
+            "id": 17711,
+            "text": "Dibujo de un niño de su familia"
+        },
+        {
+            "id": 17710,
+            "text": "Muñeco de nieve extremo"
+        },
+        {
+            "id": 17709,
+            "text": "Filósofo"
+        },
+        {
+            "id": 17708,
+            "text": "Desayuno en la cama"
+        },
+        {
+            "id": 17707,
+            "text": "Escondidas"
+        },
+        {
+            "id": 17706,
+            "text": "Grupo de hombre azul"
+        },
+        {
+            "id": 17705,
+            "text": "Esos tipos en el auto de los comerciales de comida"
+        },
+        {
+            "id": 17704,
+            "text": "La desolación de smaug"
+        },
+        {
+            "id": 17703,
+            "text": "Elefante hermoso"
+        },
+        {
+            "id": 17702,
+            "text": "Liam Neeson"
+        },
+        {
+            "id": 17701,
+            "text": "Día del arbor"
+        },
+        {
+            "id": 17700,
+            "text": "Loción apestosa"
+        },
+        {
+            "id": 17699,
+            "text": "Medio reloj con una flecha apuntando a él"
+        },
+        {
+            "id": 17698,
+            "text": "Mariposa comiendo"
+        },
+        {
+            "id": 17697,
+            "text": "¡Tú no eres mi padre!"
+        },
+        {
+            "id": 17696,
+            "text": "Que te mejores"
+        },
+        {
+            "id": 17695,
+            "text": "Muchas flores"
+        },
+        {
+            "id": 17694,
+            "text": "Hipopótamo con una bazuca"
+        },
+        {
+            "id": 17693,
+            "text": "Accidente de cocina"
+        },
+        {
+            "id": 17692,
+            "text": "Hombre enojado debajo de la cama"
+        },
+        {
+            "id": 17691,
+            "text": "Lobo con imán gigante"
+        },
+        {
+            "id": 17690,
+            "text": "Formar conexiones"
+        },
+        {
+            "id": 17689,
+            "text": "Orquesta"
+        },
+        {
+            "id": 17688,
+            "text": "El cielo"
+        },
+        {
+            "id": 17687,
+            "text": "Bebida roja"
+        },
+        {
+            "id": 17686,
+            "text": "Buen lugar para estacionar"
+        },
+        {
+            "id": 17685,
+            "text": "Fabio"
+        },
+        {
+            "id": 17684,
+            "text": "Escándalo"
+        },
+        {
+            "id": 17683,
+            "text": "Entrevista de la alfombra roja"
+        },
+        {
+            "id": 17682,
+            "text": "Vendedor de autos con barba"
+        },
+        {
+            "id": 17681,
+            "text": "Cápsula de escape"
+        },
+        {
+            "id": 17680,
+            "text": "Fútbol de fantasía"
+        },
+        {
+            "id": 17679,
+            "text": "Pantalones removibles"
+        },
+        {
+            "id": 17678,
+            "text": "Tontín"
+        },
+        {
+            "id": 17677,
+            "text": "Bolsa de compras reutilizable"
+        },
+        {
+            "id": 17676,
+            "text": "hora de la siesta"
+        },
+        {
+            "id": 17675,
+            "text": "Mezcla de frutos secos"
+        },
+        {
+            "id": 17674,
+            "text": "Auto alquilado"
+        },
+        {
+            "id": 17673,
+            "text": "Mirar a una pintura de ti mismo"
+        },
+        {
+            "id": 17672,
+            "text": "Pan de centeno"
+        },
+        {
+            "id": 17671,
+            "text": "tratando de parecer atractivo a pesar de mearte encima"
+        },
+        {
+            "id": 17670,
+            "text": "Esquina de chicos malos"
+        },
+        {
+            "id": 17669,
+            "text": "Medias con animalitos"
+        },
+        {
+            "id": 17668,
+            "text": "Un programa de medianoche conducido por una mujer"
+        },
+        {
+            "id": 17667,
+            "text": "Estás fuera de la banda"
+        },
+        {
+            "id": 17666,
+            "text": "American Horror Story"
+        },
+        {
+            "id": 17665,
+            "text": "Llamada de un asesino"
+        },
+        {
+            "id": 17664,
+            "text": "Pulse botón reciba tocino"
+        },
+        {
+            "id": 17663,
+            "text": "Baño público"
+        },
+        {
+            "id": 17662,
+            "text": "No encuentra al bebé"
+        },
+        {
+            "id": 17661,
+            "text": "¡Oh no, no tenemos seguro!"
+        },
+        {
+            "id": 17660,
+            "text": "Manos de jazz"
+        },
+        {
+            "id": 17659,
+            "text": "Los últimos momentos del Titanic"
+        },
+        {
+            "id": 17658,
+            "text": "Mi pasado me persigue"
+        },
+        {
+            "id": 17657,
+            "text": "Camiseta graciosa"
+        },
+        {
+            "id": 17656,
+            "text": "Caramelo atorado en máquina expendedora"
+        },
+        {
+            "id": 17655,
+            "text": "Confites"
+        },
+        {
+            "id": 17654,
+            "text": "Círculos de caracoles voladores"
+        },
+        {
+            "id": 17653,
+            "text": "Triturador de basura"
+        },
+        {
+            "id": 17652,
+            "text": "Guante de béisbol quemando mi mano"
+        },
+        {
+            "id": 17651,
+            "text": "Mimo ruidoso"
+        },
+        {
+            "id": 17650,
+            "text": "Poderes mentales "
+        },
+        {
+            "id": 17649,
+            "text": "Odio esa lámpara"
+        },
+        {
+            "id": 17648,
+            "text": "Timbre de payaso"
+        },
+        {
+            "id": 17647,
+            "text": "pala demasiado pequeña"
+        },
+        {
+            "id": 17646,
+            "text": "Consumismo"
+        },
+        {
+            "id": 17645,
+            "text": "Un tonto"
+        },
+        {
+            "id": 17644,
+            "text": "Protuberancia brillante de un champiñón"
+        },
+        {
+            "id": 17643,
+            "text": "Tambor de galleta"
+        },
+        {
+            "id": 17642,
+            "text": "Pato emo"
+        },
+        {
+            "id": 17641,
+            "text": "Iglesia nocturna"
+        },
+        {
+            "id": 17640,
+            "text": "Ropa puntiaguda"
+        },
+        {
+            "id": 17639,
+            "text": "Saxofonista dormido"
+        },
+        {
+            "id": 17638,
+            "text": "Tengo demasiado dinero así que compré este auto"
+        },
+        {
+            "id": 17637,
+            "text": "Empalado con estrellas"
+        },
+        {
+            "id": 17636,
+            "text": "Remordimiento venenoso"
+        },
+        {
+            "id": 17635,
+            "text": "¿Por qué hay un caballo en mi granja?"
+        },
+        {
+            "id": 17634,
+            "text": "Amienemigo"
+        },
+        {
+            "id": 17633,
+            "text": "Estatua aterradora"
+        },
+        {
+            "id": 17632,
+            "text": "Láseres de la muerte"
+        },
+        {
+            "id": 17631,
+            "text": "Pulgares asquerosos"
+        },
+        {
+            "id": 17630,
+            "text": "El final de Lost"
+        },
+        {
+            "id": 17629,
+            "text": "Mi lista de netflix"
+        },
+        {
+            "id": 17628,
+            "text": "Haciendo un globo en forma de animal"
+        },
+        {
+            "id": 17627,
+            "text": "Resolución de Año Nuevo"
+        },
+        {
+            "id": 17626,
+            "text": "Hombre fuerte tirando de un camión"
+        },
+        {
+            "id": 17625,
+            "text": "Video de gatitos"
+        },
+        {
+            "id": 17624,
+            "text": "Pez guiñando"
+        },
+        {
+            "id": 17623,
+            "text": "No deberíamos haber comprado esta casa"
+        },
+        {
+            "id": 17622,
+            "text": "Momia rata"
+        },
+        {
+            "id": 17621,
+            "text": "Vomitando sobre un bebé"
+        },
+        {
+            "id": 17620,
+            "text": "Sí oficial ¡ese es el hombre que me robó!"
+        },
+        {
+            "id": 17619,
+            "text": "Cavernícola descongelado abogado"
+        },
+        {
+            "id": 17618,
+            "text": "Sopa de gusanos"
+        },
+        {
+            "id": 17617,
+            "text": "Flequillo"
+        },
+        {
+            "id": 17616,
+            "text": "Palabras"
+        },
+        {
+            "id": 17615,
+            "text": "Pimienta"
+        },
+        {
+            "id": 17614,
+            "text": "¿Pueden encontrar el pájaro en esta foto?"
+        },
+        {
+            "id": 17613,
+            "text": "Cicatriz con onda"
+        },
+        {
+            "id": 17612,
+            "text": "vender plasma"
+        },
+        {
+            "id": 17611,
+            "text": "Ninja con resaca"
+        },
+        {
+            "id": 17610,
+            "text": "Steam"
+        },
+        {
+            "id": 17609,
+            "text": "Bañera de caviar"
+        },
+        {
+            "id": 17608,
+            "text": "Carrera de tractores"
+        },
+        {
+            "id": 17607,
+            "text": "Gatos volcánicos"
+        },
+        {
+            "id": 17606,
+            "text": "La mitad inferior de la estatua de la libertad"
+        },
+        {
+            "id": 17605,
+            "text": "Blanco y negro"
+        },
+        {
+            "id": 17604,
+            "text": "Las curvas"
+        },
+        {
+            "id": 17603,
+            "text": "Roca grande a punto de aplastar a un tipo"
+        },
+        {
+            "id": 17602,
+            "text": "Harvard"
+        },
+        {
+            "id": 17601,
+            "text": "Hansel y Gretel"
+        },
+        {
+            "id": 17600,
+            "text": "Cuento de hadas"
+        },
+        {
+            "id": 17599,
+            "text": "Soplavidrios"
+        },
+        {
+            "id": 17598,
+            "text": "Deslumbrado"
+        },
+        {
+            "id": 17597,
+            "text": "Es una santa"
+        },
+        {
+            "id": 17596,
+            "text": "Mayonesa podrida"
+        },
+        {
+            "id": 17595,
+            "text": "Zorrillo haciendo ejercicio"
+        },
+        {
+            "id": 17594,
+            "text": "Francotirador lagarto"
+        },
+        {
+            "id": 17593,
+            "text": "Barítono"
+        },
+        {
+            "id": 17592,
+            "text": "Frente frío entrando del oeste"
+        },
+        {
+            "id": 17591,
+            "text": "Niños en un muscial"
+        },
+        {
+            "id": 17590,
+            "text": "Escapando de una prisión subterránea"
+        },
+        {
+            "id": 17589,
+            "text": "Saltarín"
+        },
+        {
+            "id": 17588,
+            "text": "Jefe maloliente"
+        },
+        {
+            "id": 17587,
+            "text": "Illuminati"
+        },
+        {
+            "id": 17586,
+            "text": "Parque grande en una ciudad"
+        },
+        {
+            "id": 17585,
+            "text": "Servilleta con un árbol dibujado sobre ella"
+        },
+        {
+            "id": 17583,
+            "text": "Viaje de ratón"
+        },
+        {
+            "id": 17582,
+            "text": "Buenos chicos"
+        },
+        {
+            "id": 17581,
+            "text": "Pijamada"
+        },
+        {
+            "id": 17580,
+            "text": "Jetski con ruedas"
+        },
+        {
+            "id": 17579,
+            "text": "Casi besándose"
+        },
+        {
+            "id": 17578,
+            "text": "Pintura húmeda"
+        },
+        {
+            "id": 17577,
+            "text": "Ajedrez sin alfiles"
+        },
+        {
+            "id": 17576,
+            "text": "Rey de Las Vegas"
+        },
+        {
+            "id": 17575,
+            "text": "El Papa levantando pesas"
+        },
+        {
+            "id": 17574,
+            "text": "Downton Abbey"
+        },
+        {
+            "id": 17573,
+            "text": "un millón con el punto en el lugar equivocado"
+        },
+        {
+            "id": 17572,
+            "text": "Calle de tres vías"
+        },
+        {
+            "id": 17571,
+            "text": "una mujer y un trofeo de segundo lugar"
+        },
+        {
+            "id": 17570,
+            "text": "Escáneres"
+        },
+        {
+            "id": 17569,
+            "text": "El Resplandor"
+        },
+        {
+            "id": 17568,
+            "text": "Gracias pensadoras"
+        },
+        {
+            "id": 17563,
+            "text": "Cuerpo muerto en una hamaca"
+        },
+        {
+            "id": 17562,
+            "text": "Figura de palo con manos reales"
+        },
+        {
+            "id": 17561,
+            "text": "Trago de jugo de pepinillos"
+        },
+        {
+            "id": 17560,
+            "text": "Niñera joven"
+        },
+        {
+            "id": 17559,
+            "text": "Oye viejo, que no te entristezca el tráfico"
+        },
+        {
+            "id": 17558,
+            "text": "¡A correr a buscar pizza!"
+        },
+        {
+            "id": 17557,
+            "text": "Mordida de dragón pequeño"
+        },
+        {
+            "id": 17556,
+            "text": "Cómo conseguí este chupón"
+        },
+        {
+            "id": 17555,
+            "text": "¡Oh Dios, estoy viejo!"
+        },
+        {
+            "id": 17554,
+            "text": "Un mundo sin fines de semana"
+        },
+        {
+            "id": 17553,
+            "text": "¡¡¡Hulk tener nuevos pantalones!!!"
+        },
+        {
+            "id": 17552,
+            "text": "Fiesta de Intercom"
+        },
+        {
+            "id": 17551,
+            "text": "Dentista perezoso"
+        },
+        {
+            "id": 17550,
+            "text": "Programa de juegos para gigantes"
+        },
+        {
+            "id": 17549,
+            "text": "Ombligo para afuera"
+        },
+        {
+            "id": 17548,
+            "text": "veneno de tostadas con mermelada"
+        },
+        {
+            "id": 17547,
+            "text": "Sherlock Holmes con náuseas"
+        },
+        {
+            "id": 17546,
+            "text": "hámster comiendo un rascacielos"
+        },
+        {
+            "id": 17545,
+            "text": "bragas de serpiente"
+        },
+        {
+            "id": 17544,
+            "text": "¡Aquí viene el tren del pepinillo!"
+        },
+        {
+            "id": 17543,
+            "text": "Espátulas de la muerte"
+        },
+        {
+            "id": 17542,
+            "text": "¡Estos sapos están gordos!"
+        },
+        {
+            "id": 17541,
+            "text": "el sombrero más triste de México"
+        },
+        {
+            "id": 17540,
+            "text": "libro en cinta sobre rinocerontes"
+        },
+        {
+            "id": 17539,
+            "text": "huevomóvil"
+        },
+        {
+            "id": 17538,
+            "text": "¡Oigan chicos! ¡Espérenme!"
+        },
+        {
+            "id": 17537,
+            "text": "Vodka de coco"
+        },
+        {
+            "id": 17536,
+            "text": "¡Recoge mis pantalones!"
+        },
+        {
+            "id": 17535,
+            "text": "Viajes de malvavisco"
+        },
+        {
+            "id": 17534,
+            "text": "Camarero tonto"
+        },
+        {
+            "id": 17533,
+            "text": "Mi contraseña de wifi"
+        },
+        {
+            "id": 17532,
+            "text": "Crisis de mediana edad"
+        },
+        {
+            "id": 17531,
+            "text": "Bobinas de caca"
+        },
+        {
+            "id": 17530,
+            "text": "Almohada recibiendo la pena de muerte"
+        },
+        {
+            "id": 17529,
+            "text": "Pasándola aceptablemente"
+        },
+        {
+            "id": 17528,
+            "text": "¡Ay, pero qué grandes riñones tienes!"
+        },
+        {
+            "id": 17527,
+            "text": "Bombeo"
+        },
+        {
+            "id": 17526,
+            "text": "Falta Saturno"
+        },
+        {
+            "id": 17525,
+            "text": "Caminata rápida"
+        },
+        {
+            "id": 17524,
+            "text": "Deja de mirar mis tentáculos."
+        },
+        {
+            "id": 17523,
+            "text": "enema de brócoli"
+        },
+        {
+            "id": 17522,
+            "text": "golfista de perros salchicha"
+        },
+        {
+            "id": 17521,
+            "text": "funeral de banjo"
+        },
+        {
+            "id": 17520,
+            "text": "bolsa de Nixons"
+        },
+        {
+            "id": 17519,
+            "text": "Delfines bravucones"
+        },
+        {
+            "id": 17518,
+            "text": "chofer de duendes"
+        },
+        {
+            "id": 17517,
+            "text": "Mark Twain se tiró un pedo"
+        },
+        {
+            "id": 17516,
+            "text": "Tostadora fea"
+        },
+        {
+            "id": 17515,
+            "text": "Cómo sería si el alfabeto se viera completamente diferente"
+        },
+        {
+            "id": 17514,
+            "text": "Asesinar usando solo pensamientos"
+        },
+        {
+            "id": 17513,
+            "text": "Pelota triste"
+        },
+        {
+            "id": 17512,
+            "text": "Zoológico humano"
+        },
+        {
+            "id": 17511,
+            "text": "Constipación"
+        },
+        {
+            "id": 17509,
+            "text": "Pesadilla de leñador"
+        },
+        {
+            "id": 17508,
+            "text": "Tom Hanks"
+        },
+        {
+            "id": 17507,
+            "text": "Bajando una escalera desnudo"
+        },
+        {
+            "id": 17506,
+            "text": "Salto waffle"
+        },
+        {
+            "id": 17505,
+            "text": "Rockero pedorreando flechas"
+        },
+        {
+            "id": 17504,
+            "text": "Señora Doubtfire"
+        },
+        {
+            "id": 17503,
+            "text": "El After"
+        },
+        {
+            "id": 17502,
+            "text": "Asesino en el espejo retrovisor"
+        },
+        {
+            "id": 17501,
+            "text": "Vigilancia nocturna"
+        },
+        {
+            "id": 17500,
+            "text": "Campamento espacial"
+        },
+        {
+            "id": 17499,
+            "text": "Barba de abejas"
+        },
+        {
+            "id": 17498,
+            "text": "Mucama vieja"
+        },
+        {
+            "id": 17497,
+            "text": "Merlot"
+        },
+        {
+            "id": 17496,
+            "text": "Presentarse para ser alcalde"
+        },
+        {
+            "id": 17495,
+            "text": "Asustado de girar la botella"
+        },
+        {
+            "id": 17494,
+            "text": "Noche de lavandería"
+        },
+        {
+            "id": 17493,
+            "text": "Espada láser"
+        },
+        {
+            "id": 17492,
+            "text": "Amigos con beneficios"
+        },
+        {
+            "id": 17491,
+            "text": "Cubierto en brillitos"
+        },
+        {
+            "id": 17490,
+            "text": "Recarga"
+        },
+        {
+            "id": 17489,
+            "text": "Mujer en vestido de triángulo"
+        },
+        {
+            "id": 17488,
+            "text": "Casi delito"
+        },
+        {
+            "id": 17487,
+            "text": "Universidad de hombres lobo"
+        },
+        {
+            "id": 17486,
+            "text": "Desgraciados totales"
+        },
+        {
+            "id": 17485,
+            "text": "Vergüenza"
+        },
+        {
+            "id": 17484,
+            "text": "Donde van a parar los calcetines perdidos."
+        },
+        {
+            "id": 17483,
+            "text": "Campanita de la cena"
+        },
+        {
+            "id": 17482,
+            "text": "El hechicero de Harry Potter"
+        },
+        {
+            "id": 17481,
+            "text": "Deteniendo una boda"
+        },
+        {
+            "id": 17480,
+            "text": "Triángulo de las Bermudas"
+        },
+        {
+            "id": 17479,
+            "text": "Ajedrez humano"
+        },
+        {
+            "id": 17478,
+            "text": "Recordando cuando tenía amigos"
+        },
+        {
+            "id": 17477,
+            "text": "Un nuevo tipo de fideo"
+        },
+        {
+            "id": 17476,
+            "text": "Cabello viviente"
+        },
+        {
+            "id": 17475,
+            "text": "Los patos macho"
+        },
+        {
+            "id": 17474,
+            "text": "Boleto de guardarropa"
+        },
+        {
+            "id": 17473,
+            "text": "Dama centauro"
+        },
+        {
+            "id": 17472,
+            "text": "Sombrero de capitán"
+        },
+        {
+            "id": 17471,
+            "text": "Botón perdido"
+        },
+        {
+            "id": 17470,
+            "text": "Gemelos pelean contra gemelos"
+        },
+        {
+            "id": 17469,
+            "text": "Tocino en la cama"
+        },
+        {
+            "id": 17468,
+            "text": "Gato bazuca"
+        },
+        {
+            "id": 17467,
+            "text": "Camarero ardiente"
+        },
+        {
+            "id": 17466,
+            "text": "Wolverine bebé"
+        },
+        {
+            "id": 17465,
+            "text": "Explotando la luna"
+        },
+        {
+            "id": 17464,
+            "text": "Robot musical"
+        },
+        {
+            "id": 17463,
+            "text": "Juegos de casino"
+        },
+        {
+            "id": 17462,
+            "text": "Pastel de bodas para cucarachas"
+        },
+        {
+            "id": 17461,
+            "text": "Algunos de los Grandes Lagos"
+        },
+        {
+            "id": 17460,
+            "text": "Quizás sean gigantes"
+        },
+        {
+            "id": 17459,
+            "text": "Árbol perezoso"
+        },
+        {
+            "id": 17458,
+            "text": "¡Feliz cumpleaños! ¡Aquí tienes mi dedo!"
+        },
+        {
+            "id": 17457,
+            "text": "Hombre fulbito"
+        },
+        {
+            "id": 17456,
+            "text": "Festivus"
+        },
+        {
+            "id": 17455,
+            "text": "Ladrón de pepinillos "
+        },
+        {
+            "id": 17454,
+            "text": "Cthulhu"
+        },
+        {
+            "id": 17453,
+            "text": "Tres acostado con líneas ondeadas saliendo de él"
+        },
+        {
+            "id": 17452,
+            "text": "Pectorales que parecen una cara"
+        },
+        {
+            "id": 17451,
+            "text": "Herramienta de IKEA"
+        },
+        {
+            "id": 17450,
+            "text": "Comiendo personas para seguir vivo"
+        },
+        {
+            "id": 17449,
+            "text": "Alcatraz"
+        },
+        {
+            "id": 17448,
+            "text": "Escena del crimen en el acuario"
+        },
+        {
+            "id": 17447,
+            "text": "Vagabundo pretzel"
+        },
+        {
+            "id": 17446,
+            "text": "Cee-lo"
+        },
+        {
+            "id": 17445,
+            "text": "Tele de domingo por la noche"
+        },
+        {
+            "id": 17444,
+            "text": "Descargando música y una película"
+        },
+        {
+            "id": 17443,
+            "text": "Nuestro próximo presidente"
+        },
+        {
+            "id": 17442,
+            "text": "Video de Beyonce"
+        },
+        {
+            "id": 17441,
+            "text": "Hércules"
+        },
+        {
+            "id": 17440,
+            "text": "Desfile de lobos"
+        },
+        {
+            "id": 17439,
+            "text": "Llevando ropa de cuero"
+        },
+        {
+            "id": 17438,
+            "text": "Ligera mueca"
+        },
+        {
+            "id": 17437,
+            "text": "¡Oh no! ¡Dráculas!"
+        },
+        {
+            "id": 17436,
+            "text": "Fondo de pantalla aterrador"
+        },
+        {
+            "id": 17435,
+            "text": "Bolsillo Lleno de Kriptonita"
+        },
+        {
+            "id": 17433,
+            "text": "¡Me olvidé del paracaídas!"
+        },
+        {
+            "id": 17432,
+            "text": "Tiempos antiguos"
+        },
+        {
+            "id": 17431,
+            "text": "Acaba de fallar en un detector de mentiras"
+        },
+        {
+            "id": 17430,
+            "text": "Circo familiar"
+        },
+        {
+            "id": 17429,
+            "text": "Mapa de Narnia"
+        },
+        {
+            "id": 17428,
+            "text": "Oso polar bebiendo una cerveza"
+        },
+        {
+            "id": 17427,
+            "text": "Koala escribiendo una novela"
+        },
+        {
+            "id": 17426,
+            "text": "Máquina de dinero"
+        },
+        {
+            "id": 17425,
+            "text": "Te “amo”"
+        },
+        {
+            "id": 17424,
+            "text": "En venta: Zapatos para bebé, sin usar"
+        },
+        {
+            "id": 17423,
+            "text": "¡Surfea o muere!"
+        },
+        {
+            "id": 17422,
+            "text": "Copos de azúcar sin azúcar "
+        },
+        {
+            "id": 17421,
+            "text": "Mini-cereal relleno"
+        },
+        {
+            "id": 17420,
+            "text": "Granado."
+        },
+        {
+            "id": 17419,
+            "text": "Tarjeta MasterCard"
+        },
+        {
+            "id": 17418,
+            "text": "Mujer sosteniendo un tenedor gigante"
+        },
+        {
+            "id": 17417,
+            "text": "¿Hace tres años?"
+        },
+        {
+            "id": 17416,
+            "text": "Calendario maya"
+        },
+        {
+            "id": 17415,
+            "text": "Ofertas en colchones"
+        },
+        {
+            "id": 17414,
+            "text": "Jaguar"
+        },
+        {
+            "id": 17413,
+            "text": "Ese clip del Microsoft Word"
+        },
+        {
+            "id": 17412,
+            "text": "Bolsa de té"
+        },
+        {
+            "id": 17411,
+            "text": "¡Necesito café!"
+        },
+        {
+            "id": 17410,
+            "text": "Gato viviendo en una casita de perro"
+        },
+        {
+            "id": 17409,
+            "text": "Orden alfabético"
+        },
+        {
+            "id": 17408,
+            "text": "Caballo con cinturón de seguridad"
+        },
+        {
+            "id": 17407,
+            "text": "Ojos flotantes"
+        },
+        {
+            "id": 17406,
+            "text": "Corte de cavernícola"
+        },
+        {
+            "id": 17405,
+            "text": "¡No lo toques!"
+        },
+        {
+            "id": 17404,
+            "text": "Pantalones acolchados"
+        },
+        {
+            "id": 17403,
+            "text": "Este cómic es terrible"
+        },
+        {
+            "id": 17402,
+            "text": "Perverso"
+        },
+        {
+            "id": 17401,
+            "text": "Dinero sucio"
+        },
+        {
+            "id": 17400,
+            "text": "Plato en la cabeza"
+        },
+        {
+            "id": 17399,
+            "text": "El mejor papá del mundo"
+        },
+        {
+            "id": 17398,
+            "text": "Hormiga valiente"
+        },
+        {
+            "id": 17397,
+            "text": "Amigo imaginario"
+        },
+        {
+            "id": 17396,
+            "text": "Rata en un capullo "
+        },
+        {
+            "id": 17395,
+            "text": "Tienda de antigüedades"
+        },
+        {
+            "id": 17394,
+            "text": "Camarero desquiciado"
+        },
+        {
+            "id": 17393,
+            "text": "Los de arriba son demasiado ruidosos"
+        },
+        {
+            "id": 17392,
+            "text": "Panda con músculos"
+        },
+        {
+            "id": 17391,
+            "text": "Títere codicioso"
+        },
+        {
+            "id": 17390,
+            "text": "Aliento a huevos"
+        },
+        {
+            "id": 17389,
+            "text": "Navidad caníbal"
+        },
+        {
+            "id": 17388,
+            "text": "Anillo de promesa"
+        },
+        {
+            "id": 17387,
+            "text": "Pastel de cobra"
+        },
+        {
+            "id": 17386,
+            "text": "Doctor risitas"
+        },
+        {
+            "id": 17385,
+            "text": "Balde de círculos"
+        },
+        {
+            "id": 17384,
+            "text": "Camiseta troll"
+        },
+        {
+            "id": 17383,
+            "text": "Hacer trampa en el tres en raya"
+        },
+        {
+            "id": 17382,
+            "text": "Murciélago mimoso"
+        },
+        {
+            "id": 17381,
+            "text": "Sopa dolorosa"
+        },
+        {
+            "id": 17380,
+            "text": "Humedad"
+        },
+        {
+            "id": 17379,
+            "text": "Qué gracioso"
+        },
+        {
+            "id": 17378,
+            "text": "Intersección peligrosa"
+        },
+        {
+            "id": 17377,
+            "text": "Salsa poco picante"
+        },
+        {
+            "id": 17376,
+            "text": "El trasero de este perro"
+        },
+        {
+            "id": 17375,
+            "text": "Vaquero modo diablo"
+        },
+        {
+            "id": 17374,
+            "text": "Tractor perdido"
+        },
+        {
+            "id": 17373,
+            "text": "fingiendo leer"
+        },
+        {
+            "id": 17372,
+            "text": "Sobras"
+        },
+        {
+            "id": 17371,
+            "text": "Mamá y papá besándose"
+        },
+        {
+            "id": 17370,
+            "text": "Tostadora voladora"
+        },
+        {
+            "id": 17369,
+            "text": "Enchufe seco"
+        },
+        {
+            "id": 17368,
+            "text": "El precio es correcto"
+        },
+        {
+            "id": 17367,
+            "text": "Tren volador"
+        },
+        {
+            "id": 17366,
+            "text": "Gaita sexy"
+        },
+        {
+            "id": 17365,
+            "text": "Jack el destripador"
+        },
+        {
+            "id": 17364,
+            "text": "Persona con un látigo"
+        },
+        {
+            "id": 17363,
+            "text": "Tenedor libre "
+        },
+        {
+            "id": 17362,
+            "text": "Castillo inflable"
+        },
+        {
+            "id": 17361,
+            "text": "Sábado por la mañana"
+        },
+        {
+            "id": 17360,
+            "text": "Terapeuta aburrido"
+        },
+        {
+            "id": 17359,
+            "text": "Hombre salvaje en la radio"
+        },
+        {
+            "id": 17358,
+            "text": "Hiedra venenosa"
+        },
+        {
+            "id": 17357,
+            "text": "Camionero con un sombrero"
+        },
+        {
+            "id": 17356,
+            "text": "Lego Moisés"
+        },
+        {
+            "id": 17355,
+            "text": "50 sombras de Grey"
+        },
+        {
+            "id": 17354,
+            "text": "Dulces 16"
+        },
+        {
+            "id": 17353,
+            "text": "Pesadilla dentista"
+        },
+        {
+            "id": 17352,
+            "text": "Traje de baño mohoso "
+        },
+        {
+            "id": 17351,
+            "text": "Gran hermano"
+        },
+        {
+            "id": 17350,
+            "text": "Hospital sirena"
+        },
+        {
+            "id": 17349,
+            "text": "Mayordomo dormido"
+        },
+        {
+            "id": 17348,
+            "text": "Queja refunfuñante"
+        },
+        {
+            "id": 17347,
+            "text": "Jeans ajustados y caros"
+        },
+        {
+            "id": 17346,
+            "text": "Señor Cosquillas"
+        },
+        {
+            "id": 17345,
+            "text": "Luna de miel en el espacio"
+        },
+        {
+            "id": 17344,
+            "text": "Uñas sueltas"
+        },
+        {
+            "id": 17343,
+            "text": "golfear dormido"
+        },
+        {
+            "id": 17342,
+            "text": "Mirando la puesta del sol"
+        },
+        {
+            "id": 17341,
+            "text": "Silla de montar de colibrí"
+        },
+        {
+            "id": 17340,
+            "text": "Lucha en el patio"
+        },
+        {
+            "id": 17339,
+            "text": "Profeta"
+        },
+        {
+            "id": 17338,
+            "text": "Movimientos suaves"
+        },
+        {
+            "id": 17337,
+            "text": "Círculo perfecto"
+        },
+        {
+            "id": 17336,
+            "text": "Fuegos artificiales aburridos"
+        },
+        {
+            "id": 17335,
+            "text": "Pensamientos profundos"
+        },
+        {
+            "id": 17334,
+            "text": "Encimera de granito"
+        },
+        {
+            "id": 17333,
+            "text": "Veneno de alce"
+        },
+        {
+            "id": 17332,
+            "text": "Sándwich de pepinillos con lechuga y tocino sin mostaza"
+        },
+        {
+            "id": 17331,
+            "text": "Abejas vomitando"
+        },
+        {
+            "id": 17330,
+            "text": "Tumba de minotauro"
+        },
+        {
+            "id": 17329,
+            "text": "Llamada telefónica de la casa del árbol"
+        },
+        {
+            "id": 17328,
+            "text": "Hora de hamburguesas"
+        },
+        {
+            "id": 17327,
+            "text": "Banda de chicos"
+        },
+        {
+            "id": 17326,
+            "text": "Payaso acupunturista"
+        },
+        {
+            "id": 17325,
+            "text": "Un dibujo en un teléfono"
+        },
+        {
+            "id": 17324,
+            "text": "Arroz"
+        },
+        {
+            "id": 17323,
+            "text": "Piscina de leche"
+        },
+        {
+            "id": 17322,
+            "text": "Una maleta llena de humo"
+        },
+        {
+            "id": 17321,
+            "text": "Jugador de béisbol golpeando un gong"
+        },
+        {
+            "id": 17320,
+            "text": "Cejas dibujadas"
+        },
+        {
+            "id": 17319,
+            "text": "Cara de cuchador"
+        },
+        {
+            "id": 17318,
+            "text": "El perro nos está mirando"
+        },
+        {
+            "id": 17317,
+            "text": "Genio sin casa"
+        },
+        {
+            "id": 17316,
+            "text": "Cenizas del abuelo"
+        },
+        {
+            "id": 17315,
+            "text": "Como atar una corbata"
+        },
+        {
+            "id": 17314,
+            "text": "Cremoso vs crocante"
+        },
+        {
+            "id": 17313,
+            "text": "Taxi alienígena"
+        },
+        {
+            "id": 17312,
+            "text": "Teléfono caído en el retrete"
+        },
+        {
+            "id": 17311,
+            "text": "Martillo de cara blanda"
+        },
+        {
+            "id": 17310,
+            "text": "Asesinado de oveja"
+        },
+        {
+            "id": 17309,
+            "text": "La imagen vino con el marco"
+        },
+        {
+            "id": 17308,
+            "text": "Una licuadora y otras cosas"
+        },
+        {
+            "id": 17307,
+            "text": "¡Libre soy! ¡Libre soy!"
+        },
+        {
+            "id": 17306,
+            "text": "Cuchillo congelado"
+        },
+        {
+            "id": 17305,
+            "text": "Rinoceronte con maquillaje"
+        },
+        {
+            "id": 17304,
+            "text": "León bailarín"
+        },
+        {
+            "id": 17303,
+            "text": "Temporada dos de The Wire"
+        },
+        {
+            "id": 17302,
+            "text": "simio sarcástico"
+        },
+        {
+            "id": 17301,
+            "text": "Jugo de pasas"
+        },
+        {
+            "id": 17300,
+            "text": "Picnic de cíclopes"
+        },
+        {
+            "id": 17299,
+            "text": "esa caja de la fortuna de Deseo cumplido"
+        },
+        {
+            "id": 17298,
+            "text": "Se parece a Stephen King"
+        },
+        {
+            "id": 17297,
+            "text": "Retweet accidental"
+        },
+        {
+            "id": 17296,
+            "text": "esqueleto de Elvis"
+        },
+        {
+            "id": 17295,
+            "text": "Enamorado de un helecho"
+        },
+        {
+            "id": 17294,
+            "text": "Ataque de lámpara"
+        },
+        {
+            "id": 17293,
+            "text": "Pez gigante mirando por la portilla"
+        },
+        {
+            "id": 17292,
+            "text": "Odio el 3D"
+        },
+        {
+            "id": 17291,
+            "text": "Puzle peligroso"
+        },
+        {
+            "id": 17290,
+            "text": "Huevos de pavo real"
+        },
+        {
+            "id": 17289,
+            "text": "NSFW"
+        },
+        {
+            "id": 17288,
+            "text": "No se puede abrir el pdf"
+        },
+        {
+            "id": 17287,
+            "text": "Manual de monstruos"
+        },
+        {
+            "id": 17286,
+            "text": "Insectosos"
+        },
+        {
+            "id": 17285,
+            "text": "Cactus invernal"
+        },
+        {
+            "id": 17284,
+            "text": "Jurar lealtad con la mano equivocada"
+        },
+        {
+            "id": 17283,
+            "text": "Polillas asesinas"
+        },
+        {
+            "id": 17282,
+            "text": "Mi lista de demandas"
+        },
+        {
+            "id": 17281,
+            "text": "Bebedor social"
+        },
+        {
+            "id": 17280,
+            "text": "Nadador intenso"
+        },
+        {
+            "id": 17279,
+            "text": "¡Mis ojos están aquí arriba!"
+        },
+        {
+            "id": 17278,
+            "text": "Palíndromo"
+        },
+        {
+            "id": 17277,
+            "text": "Gato Taco"
+        },
+        {
+            "id": 17276,
+            "text": "Adicto al café"
+        },
+        {
+            "id": 17275,
+            "text": "¡Me voy a comer estos cachorritos!"
+        },
+        {
+            "id": 17274,
+            "text": "Vampiro y cebolla"
+        },
+        {
+            "id": 17273,
+            "text": "Turista de cuevas"
+        },
+        {
+            "id": 17272,
+            "text": "Pastel en instagram"
+        },
+        {
+            "id": 17271,
+            "text": "Inflación"
+        },
+        {
+            "id": 17270,
+            "text": "Poutine"
+        },
+        {
+            "id": 17269,
+            "text": "Turducken"
+        },
+        {
+            "id": 17268,
+            "text": "Bebé Steampunk"
+        },
+        {
+            "id": 17267,
+            "text": "Engañado"
+        },
+        {
+            "id": 17266,
+            "text": "Accidente de autocorrector"
+        },
+        {
+            "id": 17265,
+            "text": "Colarse en una foto ajena"
+        },
+        {
+            "id": 17264,
+            "text": "Vórtice polar"
+        },
+        {
+            "id": 17263,
+            "text": "Amo lo pasiva que es la fiesta"
+        },
+        {
+            "id": 17262,
+            "text": "Esto es guerra"
+        },
+        {
+            "id": 17261,
+            "text": "Horno holandés"
+        },
+        {
+            "id": 17260,
+            "text": "Hombre morsa"
+        },
+        {
+            "id": 17259,
+            "text": "Baile del cuadrado"
+        },
+        {
+            "id": 17258,
+            "text": "Queso suizo sin agujeros"
+        },
+        {
+            "id": 17257,
+            "text": "Langosta con nunchacos"
+        },
+        {
+            "id": 17256,
+            "text": "Sin suficiente oxígeno"
+        },
+        {
+            "id": 17255,
+            "text": "Rallador de cáscaras"
+        },
+        {
+            "id": 17254,
+            "text": "Bravo"
+        },
+        {
+            "id": 17253,
+            "text": "Perder una pierna"
+        },
+        {
+            "id": 17252,
+            "text": "Muy zen"
+        },
+        {
+            "id": 17250,
+            "text": "Diversión desempleada"
+        },
+        {
+            "id": 17249,
+            "text": "Chisme desagradable"
+        },
+        {
+            "id": 17248,
+            "text": "ganador de un gran cheque"
+        },
+        {
+            "id": 17247,
+            "text": "Pedir ir adelante"
+        },
+        {
+            "id": 17246,
+            "text": "Líneas borrosas"
+        },
+        {
+            "id": 17245,
+            "text": "Mago no muy bueno"
+        },
+        {
+            "id": 17244,
+            "text": "Bailarina mosquito"
+        },
+        {
+            "id": 17243,
+            "text": "¡¡¡Me ahogo!!!1"
+        },
+        {
+            "id": 17242,
+            "text": "Sauna embrujado"
+        },
+        {
+            "id": 17241,
+            "text": "Vestidor de cerdos"
+        },
+        {
+            "id": 17240,
+            "text": "¿Subtítulos?"
+        },
+        {
+            "id": 17239,
+            "text": "El Fantasma de la Ópera se ducha"
+        },
+        {
+            "id": 17238,
+            "text": "Audición de Broadway"
+        },
+        {
+            "id": 17237,
+            "text": "Falda y zancos"
+        },
+        {
+            "id": 17236,
+            "text": "Zombi en la luna"
+        },
+        {
+            "id": 17235,
+            "text": "¡Las melenas vuelven a estar de moda!"
+        },
+        {
+            "id": 17234,
+            "text": "Ya llegó don comedia"
+        },
+        {
+            "id": 17233,
+            "text": "Podcasts"
+        },
+        {
+            "id": 17232,
+            "text": "Esto no parece una peluca pero lo es"
+        },
+        {
+            "id": 17231,
+            "text": "¡No puedo controlar mi mano malvada!"
+        },
+        {
+            "id": 17230,
+            "text": "¡Auxilio! ¡Estoy cubierto en sanguijuelas!"
+        },
+        {
+            "id": 17229,
+            "text": "Un perro soñando con fantasmas"
+        },
+        {
+            "id": 17228,
+            "text": "¿Papel o plástico?"
+        },
+        {
+            "id": 17227,
+            "text": "Arquitecto"
+        },
+        {
+            "id": 17226,
+            "text": "Pelusa del ombligo"
+        },
+        {
+            "id": 17225,
+            "text": "Sacándose el hipo"
+        },
+        {
+            "id": 17224,
+            "text": "Napoleón montando una ardilla "
+        },
+        {
+            "id": 17223,
+            "text": "James Bond femenino"
+        },
+        {
+            "id": 17222,
+            "text": "Euro Disney"
+        },
+        {
+            "id": 17221,
+            "text": "Cómo se acaba el mundo"
+        },
+        {
+            "id": 17220,
+            "text": "Vigilancia de Gendarmería"
+        },
+        {
+            "id": 17219,
+            "text": "Todos sobrevivieron"
+        },
+        {
+            "id": 17218,
+            "text": "Números romanos para 94"
+        },
+        {
+            "id": 17217,
+            "text": "Dormitorio de ciencia ficción"
+        },
+        {
+            "id": 17216,
+            "text": "Usar un código QR"
+        },
+        {
+            "id": 17215,
+            "text": "Me arrepiento de este tatuaje"
+        },
+        {
+            "id": 17214,
+            "text": "Guerra contra las drogas"
+        },
+        {
+            "id": 17213,
+            "text": "Piedras renales"
+        },
+        {
+            "id": 17212,
+            "text": "Naciones Unidas"
+        },
+        {
+            "id": 17211,
+            "text": "Pregunta final"
+        },
+        {
+            "id": 17210,
+            "text": "Coronel Mostaza en la biblioteca con la cuerda"
+        },
+        {
+            "id": 17209,
+            "text": "Trampolín en el espacio"
+        },
+        {
+            "id": 17208,
+            "text": "Justin Bieber triste"
+        },
+        {
+            "id": 17207,
+            "text": "Unidad de Víctimas Especiales"
+        },
+        {
+            "id": 17206,
+            "text": "mi bíper está que explota"
+        },
+        {
+            "id": 17205,
+            "text": "Carrera de remolques"
+        },
+        {
+            "id": 17204,
+            "text": "Ganador de la carrera"
+        },
+        {
+            "id": 17203,
+            "text": "lo que todos piensan de <RANDOM_PLAYER_NAME>"
+        },
+        {
+            "id": 17202,
+            "text": "<RANDOM_PLAYER_NAME> es el peor"
+        },
+        {
+            "id": 17201,
+            "text": "<RANDOM_PLAYER_NAME>"
+        },
+        {
+            "id": 17200,
+            "text": "Hora de aventura"
+        },
+        {
+            "id": 17199,
+            "text": "Loco de la limpieza"
+        },
+        {
+            "id": 17198,
+            "text": "Guerra unicornio"
+        },
+        {
+            "id": 17197,
+            "text": "Tirándose un pedo por la ventana"
+        },
+        {
+            "id": 17196,
+            "text": "Cabeza de gato gigante ataca una iglesia"
+        },
+        {
+            "id": 17195,
+            "text": "Orina"
+        },
+        {
+            "id": 17194,
+            "text": "Vaso medio vacío pero igual festivo"
+        },
+        {
+            "id": 17193,
+            "text": "Telenovela"
+        },
+        {
+            "id": 17192,
+            "text": "Caída de confianza"
+        },
+        {
+            "id": 17191,
+            "text": "El otro lado de un agujero negro"
+        },
+        {
+            "id": 17190,
+            "text": "Brócoli gigante"
+        },
+        {
+            "id": 17189,
+            "text": "Comida de Atlantis"
+        },
+        {
+            "id": 17188,
+            "text": "Jaque mate"
+        },
+        {
+            "id": 17187,
+            "text": "Máquina de tornados"
+        },
+        {
+            "id": 17186,
+            "text": "Viaje temprano"
+        },
+        {
+            "id": 17185,
+            "text": "Diversión con esposas"
+        },
+        {
+            "id": 17184,
+            "text": "¡La cirugía del cerebro es fácil!"
+        },
+        {
+            "id": 17183,
+            "text": "Perdedores de la lotería"
+        },
+        {
+            "id": 17182,
+            "text": "Cueva de macho"
+        },
+        {
+            "id": 17181,
+            "text": "Estatua de la Libertad vs Godzilla"
+        },
+        {
+            "id": 17180,
+            "text": "Doble de riesgo"
+        },
+        {
+            "id": 17179,
+            "text": "La persona en el espejo es malvada"
+        },
+        {
+            "id": 17178,
+            "text": "#throwbackthursday"
+        },
+        {
+            "id": 17177,
+            "text": "Este es el violín más pequeño del mundo tocando una canción triste para ti"
+        },
+        {
+            "id": 17176,
+            "text": "Peter pan vende autos"
+        },
+        {
+            "id": 17175,
+            "text": "Exorcismo divertido"
+        },
+        {
+            "id": 17174,
+            "text": "¿Geometría, creo?"
+        },
+        {
+            "id": 17173,
+            "text": "Pingüino no muerto"
+        },
+        {
+            "id": 17172,
+            "text": "Pelea de graduación"
+        },
+        {
+            "id": 17171,
+            "text": "Palitos chinos"
+        },
+        {
+            "id": 17170,
+            "text": "Masaje profundo"
+        },
+        {
+            "id": 17169,
+            "text": "Algún nerd"
+        },
+        {
+            "id": 17168,
+            "text": "¡¡¿Pero que haces, abuela?!!"
+        },
+        {
+            "id": 17167,
+            "text": "Daft Punk pidiendo helado"
+        },
+        {
+            "id": 17166,
+            "text": "Roygbiv"
+        },
+        {
+            "id": 17165,
+            "text": "Alimento para perros sabor a carne"
+        },
+        {
+            "id": 17164,
+            "text": "Llanto intergaláctico de un tren"
+        },
+        {
+            "id": 17163,
+            "text": "Maldición Tiki"
+        },
+        {
+            "id": 17162,
+            "text": "La banda más aburrida"
+        },
+        {
+            "id": 17161,
+            "text": "Terrible dibujo de una tortuga"
+        },
+        {
+            "id": 17160,
+            "text": "Weird Al"
+        },
+        {
+            "id": 17159,
+            "text": "¡Esta habitación necesita una cama de agua!"
+        },
+        {
+            "id": 17158,
+            "text": "Castillo banana"
+        },
+        {
+            "id": 17157,
+            "text": "Gato zurdo"
+        },
+        {
+            "id": 17156,
+            "text": "A nadie le agrada este tipo en el gimnasio"
+        },
+        {
+            "id": 17155,
+            "text": "Desenamorarse"
+        },
+        {
+            "id": 17154,
+            "text": "Haters de la ópera"
+        },
+        {
+            "id": 17153,
+            "text": "Cucaracha viviendo en una oreja"
+        },
+        {
+            "id": 17152,
+            "text": "Buen olor corporal"
+        },
+        {
+            "id": 17151,
+            "text": "Grafiti amigable"
+        },
+        {
+            "id": 17150,
+            "text": "Barbies preadolescentes"
+        },
+        {
+            "id": 17149,
+            "text": "Doble arcoíris"
+        },
+        {
+            "id": 17148,
+            "text": "Feminismo"
+        },
+        {
+            "id": 17147,
+            "text": "Oficina del Dr. Frankenstein"
+        },
+        {
+            "id": 17146,
+            "text": "Deportes extremos"
+        },
+        {
+            "id": 17145,
+            "text": "Perro con visión de rayos X"
+        },
+        {
+            "id": 17144,
+            "text": "Alfombra de lana"
+        },
+        {
+            "id": 17143,
+            "text": "Valores familiares"
+        },
+        {
+            "id": 17142,
+            "text": "Granada de antaño"
+        },
+        {
+            "id": 17141,
+            "text": "Mudándose con Papá Noel"
+        },
+        {
+            "id": 17140,
+            "text": "Hermosos zapatos escolares"
+        },
+        {
+            "id": 17139,
+            "text": "Nuevo empleo"
+        },
+        {
+            "id": 17138,
+            "text": "Ladrón pavo"
+        },
+        {
+            "id": 17137,
+            "text": "Fiesta de panchos hula hula"
+        },
+        {
+            "id": 17136,
+            "text": "Lancha de motor"
+        },
+        {
+            "id": 17135,
+            "text": "Niño grasiento"
+        },
+        {
+            "id": 17134,
+            "text": "Tatuaje en el trasero"
+        },
+        {
+            "id": 17133,
+            "text": "Amor de calamar"
+        },
+        {
+            "id": 17132,
+            "text": "Grupo de improvisación"
+        },
+        {
+            "id": 17131,
+            "text": "Accidente de guillotina"
+        },
+        {
+            "id": 17130,
+            "text": "Prueba de micrófono"
+        },
+        {
+            "id": 17129,
+            "text": "No coman las galletas"
+        },
+        {
+            "id": 17128,
+            "text": "Peine de caballo"
+        },
+        {
+            "id": 17127,
+            "text": "Silla peleando con una mesa"
+        },
+        {
+            "id": 17126,
+            "text": "Cena vegana"
+        },
+        {
+            "id": 17125,
+            "text": "Fanático del básquetbol"
+        },
+        {
+            "id": 17124,
+            "text": "Navaja de prisión"
+        },
+        {
+            "id": 17123,
+            "text": "Amas de Casa Reales"
+        },
+        {
+            "id": 17122,
+            "text": "Dexter"
+        },
+        {
+            "id": 17121,
+            "text": "Venta de suéteres"
+        },
+        {
+            "id": 17120,
+            "text": "Caballero tocando la guitarra"
+        },
+        {
+            "id": 17119,
+            "text": "Médico dormido"
+        },
+        {
+            "id": 17118,
+            "text": "Tortuga en coma"
+        },
+        {
+            "id": 17117,
+            "text": "Caballo Rayado"
+        },
+        {
+            "id": 17116,
+            "text": "Tres deseos"
+        },
+        {
+            "id": 17115,
+            "text": "Cansado de hacer cucharita"
+        },
+        {
+            "id": 17114,
+            "text": "Mirando la sopa en la cocina"
+        },
+        {
+            "id": 17113,
+            "text": "Chiste de toc toc"
+        },
+        {
+            "id": 17112,
+            "text": "Niebla"
+        },
+        {
+            "id": 17111,
+            "text": "Solo un tipo con una capa"
+        },
+        {
+            "id": 17110,
+            "text": "Oficina bikini"
+        },
+        {
+            "id": 17109,
+            "text": "Explosión de palomitas"
+        },
+        {
+            "id": 17108,
+            "text": "Anciano volando una cometa"
+        },
+        {
+            "id": 17107,
+            "text": "Cañón de camisetas"
+        },
+        {
+            "id": 17106,
+            "text": "virus de computadora"
+        },
+        {
+            "id": 17105,
+            "text": "Escultura de hielo"
+        },
+        {
+            "id": 17104,
+            "text": "Tocino de Kickstarter"
+        },
+        {
+            "id": 17103,
+            "text": "El piso es lava"
+        },
+        {
+            "id": 17102,
+            "text": "Terror"
+        },
+        {
+            "id": 17101,
+            "text": "Llorando y comiendo"
+        },
+        {
+            "id": 17100,
+            "text": "Gandolf casándose"
+        },
+        {
+            "id": 17099,
+            "text": "Cura de vacaciones"
+        },
+        {
+            "id": 17098,
+            "text": "Lamida de monedas"
+        },
+        {
+            "id": 17097,
+            "text": "Puñalada de cara"
+        },
+        {
+            "id": 17096,
+            "text": "Foto escolar con láseres de fondo"
+        },
+        {
+            "id": 17095,
+            "text": "esa película de pulseadas de Sylvester Stallone"
+        },
+        {
+            "id": 17094,
+            "text": "Lobos en ropa interior"
+        },
+        {
+            "id": 17093,
+            "text": "Todos saben que estás calvo"
+        },
+        {
+            "id": 17092,
+            "text": "Hombre desquiciado riéndose"
+        },
+        {
+            "id": 17091,
+            "text": "Día de llevar a tu hija al trabajo"
+        },
+        {
+            "id": 17090,
+            "text": "Ratas abrazándose"
+        },
+        {
+            "id": 17089,
+            "text": "Clon fallido"
+        },
+        {
+            "id": 17088,
+            "text": "Madonna"
+        },
+        {
+            "id": 17087,
+            "text": "Rey del perreo"
+        },
+        {
+            "id": 17086,
+            "text": "Conejos prehistóricos"
+        },
+        {
+            "id": 17085,
+            "text": "Blanqueamiento de dientes"
+        },
+        {
+            "id": 17084,
+            "text": "Tren misterioso"
+        },
+        {
+            "id": 17083,
+            "text": "Nube que se parece a Darth Vader"
+        },
+        {
+            "id": 17082,
+            "text": "Patos en una pelea de espadas"
+        },
+        {
+            "id": 17081,
+            "text": "Magic el encuentro"
+        },
+        {
+            "id": 17080,
+            "text": "Batalla de rap gigante"
+        },
+        {
+            "id": 17079,
+            "text": "Trampa mortal"
+        },
+        {
+            "id": 17078,
+            "text": "Bruja sin dinero"
+        },
+        {
+            "id": 17077,
+            "text": "Monstruo de globos"
+        },
+        {
+            "id": 17076,
+            "text": "Amigos de Facebook"
+        },
+        {
+            "id": 17075,
+            "text": "Loco de las compras"
+        },
+        {
+            "id": 17074,
+            "text": "Familia Trineo"
+        },
+        {
+            "id": 17073,
+            "text": "tequila"
+        },
+        {
+            "id": 17072,
+            "text": "Nueces rotas"
+        },
+        {
+            "id": 17071,
+            "text": "Personas de nieve"
+        },
+        {
+            "id": 17070,
+            "text": "Pizza de ratón"
+        },
+        {
+            "id": 17069,
+            "text": "Paparazzi"
+        },
+        {
+            "id": 17068,
+            "text": "Olfateador de carteras"
+        },
+        {
+            "id": 17066,
+            "text": "Montaña rusa de madera"
+        },
+        {
+            "id": 17065,
+            "text": "Mensaje de Mamá"
+        },
+        {
+            "id": 17064,
+            "text": "Yoga caliente"
+        },
+        {
+            "id": 17063,
+            "text": "Baile Robocop"
+        },
+        {
+            "id": 17062,
+            "text": "Oscuridad"
+        },
+        {
+            "id": 17061,
+            "text": "Parásito Sonriente"
+        },
+        {
+            "id": 17060,
+            "text": "Hora de negocios"
+        },
+        {
+            "id": 17059,
+            "text": "Una broma sale mal"
+        },
+        {
+            "id": 17058,
+            "text": "¿¿¿Algún tipo de queso???"
+        },
+        {
+            "id": 17057,
+            "text": "¿Si las serpientes llevaran corbatines?"
+        },
+        {
+            "id": 17056,
+            "text": "¡Este tipo se comió todas las palomitas!"
+        },
+        {
+            "id": 17055,
+            "text": "Casa con dos ventanas y sin puerta"
+        },
+        {
+            "id": 17054,
+            "text": "Tres tipos llevando sombreros y un tipo que no lleva sombrero"
+        },
+        {
+            "id": 17053,
+            "text": "Tipo raro del trabajo"
+        },
+        {
+            "id": 17052,
+            "text": "Cara besable"
+        },
+        {
+            "id": 17051,
+            "text": "Valet de karts"
+        },
+        {
+            "id": 17050,
+            "text": "Interrumpiendo una boda"
+        },
+        {
+            "id": 17049,
+            "text": "Fiesta de té"
+        },
+        {
+            "id": 17048,
+            "text": "Alérgico a los gatos"
+        },
+        {
+            "id": 17047,
+            "text": "Chico quiere un abrazo"
+        },
+        {
+            "id": 17046,
+            "text": "Ley y Orden"
+        },
+        {
+            "id": 17045,
+            "text": "Choque los cinco solitario"
+        },
+        {
+            "id": 17044,
+            "text": "Chef espacial"
+        },
+        {
+            "id": 17043,
+            "text": "Lo siento mucho"
+        },
+        {
+            "id": 17042,
+            "text": "Princesa fea"
+        },
+        {
+            "id": 17041,
+            "text": "Crucero de solteros"
+        },
+        {
+            "id": 17040,
+            "text": "Selfie monstruo"
+        },
+        {
+            "id": 17039,
+            "text": "Eh... ¡¡¡¿holaaa?!!!"
+        },
+        {
+            "id": 17038,
+            "text": "Corte Suprema"
+        },
+        {
+            "id": 17037,
+            "text": "Payaso en rollers"
+        },
+        {
+            "id": 17036,
+            "text": "Hater skater"
+        },
+        {
+            "id": 17035,
+            "text": "Justicia"
+        },
+        {
+            "id": 17034,
+            "text": "Aceite de oliva virgen extra"
+        },
+        {
+            "id": 17033,
+            "text": "P90X"
+        },
+        {
+            "id": 17032,
+            "text": "Púrpura"
+        },
+        {
+            "id": 17031,
+            "text": "Los 80"
+        },
+        {
+            "id": 17030,
+            "text": "Ladrón de camas"
+        },
+        {
+            "id": 17029,
+            "text": "Galletas perdidas"
+        },
+        {
+            "id": 17028,
+            "text": "Visión perfecta"
+        },
+        {
+            "id": 17027,
+            "text": "Conversación incómoda"
+        },
+        {
+            "id": 17026,
+            "text": "Apps"
+        },
+        {
+            "id": 17025,
+            "text": "Temor al viento"
+        },
+        {
+            "id": 17024,
+            "text": "Celular"
+        },
+        {
+            "id": 17023,
+            "text": "Pensamientos malvados"
+        },
+        {
+            "id": 17022,
+            "text": "Todos en esta sala"
+        },
+        {
+            "id": 17021,
+            "text": "Hípster triste"
+        },
+        {
+            "id": 17020,
+            "text": "Estudiante de 4"
+        },
+        {
+            "id": 17019,
+            "text": "Paseador de ratones"
+        },
+        {
+            "id": 17018,
+            "text": "George Clooney"
+        },
+        {
+            "id": 17017,
+            "text": "Dibujo animado neoyorkino"
+        },
+        {
+            "id": 17016,
+            "text": "El imperio contraataca"
+        },
+        {
+            "id": 17015,
+            "text": "Copa Mundial"
+        },
+        {
+            "id": 17014,
+            "text": ":-D"
+        },
+        {
+            "id": 17013,
+            "text": "Pura mugre"
+        },
+        {
+            "id": 17012,
+            "text": "Fibbage"
+        },
+        {
+            "id": 17011,
+            "text": "You Don’t Know Jack"
+        },
+        {
+            "id": 17010,
+            "text": "Asteriscos"
+        },
+        {
+            "id": 17009,
+            "text": "Pedestre"
+        },
+        {
+            "id": 17008,
+            "text": "Guijarros"
+        },
+        {
+            "id": 17007,
+            "text": "¡Yuju! ¡Libros!"
+        },
+        {
+            "id": 17006,
+            "text": "Baño costoso"
+        },
+        {
+            "id": 17005,
+            "text": "Casa desordenada"
+        },
+        {
+            "id": 17004,
+            "text": "La peor provincia"
+        },
+        {
+            "id": 17003,
+            "text": "Nacimiento"
+        },
+        {
+            "id": 17002,
+            "text": "Guardería de arañas"
+        },
+        {
+            "id": 17001,
+            "text": "Hombre Sin Cara"
+        },
+        {
+            "id": 17000,
+            "text": "Muebles"
+        },
+        {
+            "id": 16999,
+            "text": "Jenga de mierda"
+        },
+        {
+            "id": 16998,
+            "text": "Niño vestido de Lincoln"
+        },
+        {
+            "id": 16997,
+            "text": "Wyoming"
+        },
+        {
+            "id": 16996,
+            "text": "Demasiadas anguilas"
+        },
+        {
+            "id": 16995,
+            "text": "Coyote feo"
+        },
+        {
+            "id": 16994,
+            "text": "Almohada de cachorritos"
+        },
+        {
+            "id": 16993,
+            "text": "Baratijas"
+        },
+        {
+            "id": 16992,
+            "text": "Caballo difrazado"
+        },
+        {
+            "id": 16991,
+            "text": "Círculo chueco"
+        },
+        {
+            "id": 16990,
+            "text": "Miserable"
+        },
+        {
+            "id": 16989,
+            "text": "Spam"
+        },
+        {
+            "id": 16988,
+            "text": "Dragón castrado"
+        },
+        {
+            "id": 16987,
+            "text": "Trampilla"
+        },
+        {
+            "id": 16986,
+            "text": "Trivia"
+        },
+        {
+            "id": 16985,
+            "text": "Cantidad aceptable de caca"
+        },
+        {
+            "id": 16984,
+            "text": "Rocky4"
+        },
+        {
+            "id": 16983,
+            "text": "Gato con guantes"
+        },
+        {
+            "id": 16982,
+            "text": "Aalkdjfaf"
+        },
+        {
+            "id": 16981,
+            "text": "Dale a la bocina si estás caliente"
+        },
+        {
+            "id": 16980,
+            "text": "Bebés con bebés"
+        },
+        {
+            "id": 16979,
+            "text": "Sol ciego"
+        },
+        {
+            "id": 16978,
+            "text": "Trabajos"
+        },
+        {
+            "id": 16977,
+            "text": "Gente buena"
+        },
+        {
+            "id": 16976,
+            "text": "Chicas de oro"
+        },
+        {
+            "id": 16975,
+            "text": "Garfield muerto"
+        },
+        {
+            "id": 16974,
+            "text": "No me caes bien"
+        },
+        {
+            "id": 16973,
+            "text": "Matrimonio animal"
+        },
+        {
+            "id": 16972,
+            "text": "No es grande pero crece"
+        },
+        {
+            "id": 16971,
+            "text": "Jamón canadiense"
+        },
+        {
+            "id": 16970,
+            "text": "15 velas"
+        },
+        {
+            "id": 16969,
+            "text": "Pandilla de ratas"
+        },
+        {
+            "id": 16968,
+            "text": "Sujetador push up"
+        },
+        {
+            "id": 16967,
+            "text": "Martha Washington"
+        },
+        {
+            "id": 16966,
+            "text": "Inodoro tenista"
+        },
+        {
+            "id": 16965,
+            "text": "Fiesta clave"
+        },
+        {
+            "id": 16964,
+            "text": "Emoticones aterradores"
+        },
+        {
+            "id": 16963,
+            "text": "Linux"
+        },
+        {
+            "id": 16962,
+            "text": "Problema con la bebida"
+        },
+        {
+            "id": 16961,
+            "text": "Osos en un tren"
+        },
+        {
+            "id": 16960,
+            "text": "Vómito"
+        },
+        {
+            "id": 16959,
+            "text": "Un montón de avispas"
+        },
+        {
+            "id": 16958,
+            "text": "Lata de tocino"
+        },
+        {
+            "id": 16957,
+            "text": "Sin suficiente salsa"
+        },
+        {
+            "id": 16956,
+            "text": "Rock progresivo"
+        },
+        {
+            "id": 16955,
+            "text": "Show de medio tiempo"
+        },
+        {
+            "id": 16954,
+            "text": "Celos"
+        },
+        {
+            "id": 16953,
+            "text": "Camiseta de caramelo"
+        },
+        {
+            "id": 16952,
+            "text": "Los tiempos oscuros"
+        },
+        {
+            "id": 16951,
+            "text": "Hombre del renecimiento"
+        },
+        {
+            "id": 16950,
+            "text": "Jeans cortos"
+        },
+        {
+            "id": 16949,
+            "text": "Colecciónalos todos"
+        },
+        {
+            "id": 16948,
+            "text": "Olor a tortuga"
+        },
+        {
+            "id": 16947,
+            "text": "Arma hogareña de gato pizza"
+        },
+        {
+            "id": 16946,
+            "text": "Buenos días muerte"
+        },
+        {
+            "id": 16945,
+            "text": "Compañero"
+        },
+        {
+            "id": 16944,
+            "text": "Aplastada"
+        },
+        {
+            "id": 16943,
+            "text": "Chico burbuja"
+        },
+        {
+            "id": 16942,
+            "text": "Estafador"
+        },
+        {
+            "id": 16941,
+            "text": "Seguro de mascotas"
+        },
+        {
+            "id": 16940,
+            "text": "Nada"
+        },
+        {
+            "id": 16939,
+            "text": "Impuestos"
+        },
+        {
+            "id": 16938,
+            "text": "Pila de engrapadoras"
+        },
+        {
+            "id": 16937,
+            "text": "Zapatos espaciales"
+        },
+        {
+            "id": 16936,
+            "text": "Citas online"
+        },
+        {
+            "id": 16935,
+            "text": "Bañera astronauta"
+        },
+        {
+            "id": 16934,
+            "text": "Dinosaurio nervioso"
+        },
+        {
+            "id": 16933,
+            "text": "Piernas temblando"
+        },
+        {
+            "id": 16932,
+            "text": "Escala"
+        },
+        {
+            "id": 16931,
+            "text": "Manos pegajosas"
+        },
+        {
+            "id": 16930,
+            "text": "Cleveland"
+        },
+        {
+            "id": 16929,
+            "text": "Contador"
+        },
+        {
+            "id": 16928,
+            "text": "Intercambio de caras"
+        },
+        {
+            "id": 16927,
+            "text": "Esqueleto de Burger King"
+        },
+        {
+            "id": 16926,
+            "text": "Tienda embrujada"
+        },
+        {
+            "id": 16925,
+            "text": "Ensalada de taco"
+        },
+        {
+            "id": 16924,
+            "text": "Vecino de Batman"
+        },
+        {
+            "id": 16923,
+            "text": "Mala propina"
+        },
+        {
+            "id": 16922,
+            "text": "Viaje en el tiempo"
+        },
+        {
+            "id": 16921,
+            "text": "Nube funk"
+        },
+        {
+            "id": 16920,
+            "text": "Cajón basura"
+        },
+        {
+            "id": 16919,
+            "text": "Fútbol vampiro"
+        },
+        {
+            "id": 16918,
+            "text": "Muy buen arte"
+        },
+        {
+            "id": 16917,
+            "text": "Estómago dado vuelta"
+        },
+        {
+            "id": 16916,
+            "text": "Cine hogareño"
+        },
+        {
+            "id": 16915,
+            "text": "Sala de pánico"
+        },
+        {
+            "id": 16914,
+            "text": "Mimosa"
+        },
+        {
+            "id": 16913,
+            "text": "Ex hombre lobo"
+        },
+        {
+            "id": 16912,
+            "text": "Elfos"
+        },
+        {
+            "id": 16911,
+            "text": "Atún"
+        },
+        {
+            "id": 16910,
+            "text": "Super Hermanas Mario"
+        },
+        {
+            "id": 16909,
+            "text": "Dragón escondido"
+        },
+        {
+            "id": 16908,
+            "text": "Autobús de monjas"
+        },
+        {
+            "id": 16907,
+            "text": "Cabra surfer"
+        },
+        {
+            "id": 16906,
+            "text": "Ataque arácnido"
+        },
+        {
+            "id": 16905,
+            "text": "La Bomba"
+        },
+        {
+            "id": 16904,
+            "text": "Nuevos calzoncillos"
+        },
+        {
+            "id": 16903,
+            "text": "Gremlins 2"
+        },
+        {
+            "id": 16902,
+            "text": "1%"
+        },
+        {
+            "id": 16901,
+            "text": "Corbatas de papá"
+        },
+        {
+            "id": 16900,
+            "text": "Hashtags"
+        },
+        {
+            "id": 16899,
+            "text": "Laserdiscs"
+        },
+        {
+            "id": 16898,
+            "text": "Emoji malo"
+        },
+        {
+            "id": 16897,
+            "text": "Fantasma amigable"
+        },
+        {
+            "id": 16895,
+            "text": "Pudín"
+        },
+        {
+            "id": 16894,
+            "text": "La Bóveda de Disney"
+        },
+        {
+            "id": 16893,
+            "text": "Monedas de madera"
+        },
+        {
+            "id": 16892,
+            "text": "Jerbo con actitud"
+        },
+        {
+            "id": 16891,
+            "text": "$$$"
+        },
+        {
+            "id": 16890,
+            "text": "Amor pirata"
+        },
+        {
+            "id": 16889,
+            "text": "Mardi Gras"
+        },
+        {
+            "id": 16888,
+            "text": "Corderoys"
+        },
+        {
+            "id": 16887,
+            "text": "Problema de trasero"
+        },
+        {
+            "id": 16886,
+            "text": "Comida rápida"
+        },
+        {
+            "id": 16885,
+            "text": "Bebé sumo"
+        },
+        {
+            "id": 16884,
+            "text": "Doctor Policía"
+        },
+        {
+            "id": 16883,
+            "text": "Debate de vaqueros"
+        },
+        {
+            "id": 16882,
+            "text": "Robot secreto"
+        },
+        {
+            "id": 16881,
+            "text": "Clóset de Ninja"
+        },
+        {
+            "id": 16880,
+            "text": "Policía de centro comercial"
+        },
+        {
+            "id": 16879,
+            "text": "Deseo fantasioso"
+        },
+        {
+            "id": 16878,
+            "text": "Break dancing"
+        },
+        {
+            "id": 16877,
+            "text": "Denzel Washington"
+        },
+        {
+            "id": 16876,
+            "text": "Hip hop"
+        },
+        {
+            "id": 16875,
+            "text": "Autobiografía"
+        },
+        {
+            "id": 16874,
+            "text": "Cerebro en una caja"
+        },
+        {
+            "id": 16873,
+            "text": "Jirafa sin cabeza"
+        },
+        {
+            "id": 16872,
+            "text": "Zapatos mágicos"
+        },
+        {
+            "id": 16871,
+            "text": "Identidad secreta"
+        },
+        {
+            "id": 16870,
+            "text": "Pantalones banana"
+        },
+        {
+            "id": 16869,
+            "text": "¡Uf es lunes!"
+        },
+        {
+            "id": 16868,
+            "text": "Pizza Pac Man"
+        },
+        {
+            "id": 16867,
+            "text": "Club de lectura"
+        },
+        {
+            "id": 16866,
+            "text": "Hermanos"
+        },
+        {
+            "id": 16865,
+            "text": "Ciencia"
+        },
+        {
+            "id": 16864,
+            "text": "Solo de teclado"
+        },
+        {
+            "id": 16863,
+            "text": "Rana muy vieja"
+        },
+        {
+            "id": 16862,
+            "text": "Desayunando jazz"
+        },
+        {
+            "id": 16861,
+            "text": "Fin de semana vampiro"
+        },
+        {
+            "id": 16860,
+            "text": "Broma con cepillo de dientes"
+        },
+        {
+            "id": 16859,
+            "text": "Moco con piernas"
+        },
+        {
+            "id": 16858,
+            "text": "Pantalones capri"
+        },
+        {
+            "id": 16857,
+            "text": "Ataque de vacas"
+        },
+        {
+            "id": 16856,
+            "text": "Pilates"
+        },
+        {
+            "id": 16855,
+            "text": "Inodoro elegante"
+        },
+        {
+            "id": 16854,
+            "text": "Locas habilidadez"
+        },
+        {
+            "id": 16853,
+            "text": "Monjes durmiendo"
+        },
+        {
+            "id": 16852,
+            "text": "Sueño dentro de un sueño"
+        },
+        {
+            "id": 16851,
+            "text": "No cuadrado"
+        },
+        {
+            "id": 16850,
+            "text": "Hígado"
+        },
+        {
+            "id": 16849,
+            "text": "Mamá en Facebook"
+        },
+        {
+            "id": 16848,
+            "text": "¡¡¡Ahhhhh!!!"
+        },
+        {
+            "id": 16847,
+            "text": "Snob"
+        },
+        {
+            "id": 16846,
+            "text": "Síndrome de la cabaña"
+        },
+        {
+            "id": 16845,
+            "text": "Reloj pequeño"
+        },
+        {
+            "id": 16844,
+            "text": "Auto invisible"
+        },
+        {
+            "id": 16843,
+            "text": "Mortalidad"
+        },
+        {
+            "id": 16842,
+            "text": "Traseros apestosos"
+        },
+        {
+            "id": 16841,
+            "text": "Primos"
+        },
+        {
+            "id": 16840,
+            "text": "Pie de camello"
+        },
+        {
+            "id": 16839,
+            "text": "Perro caliente enojado"
+        },
+        {
+            "id": 16838,
+            "text": "Cinco líneas"
+        },
+        {
+            "id": 16837,
+            "text": "Pezones peludos"
+        },
+        {
+            "id": 16836,
+            "text": "Yo en el futuro"
+        },
+        {
+            "id": 16835,
+            "text": "No sé"
+        },
+        {
+            "id": 16834,
+            "text": "Cantalupo"
+        },
+        {
+            "id": 16833,
+            "text": "Vacaciones navideñas"
+        },
+        {
+            "id": 16832,
+            "text": "Pez enojado"
+        },
+        {
+            "id": 16831,
+            "text": "Multitud sorpresa"
+        },
+        {
+            "id": 16830,
+            "text": "Ser enterrado vivo"
+        },
+        {
+            "id": 16829,
+            "text": "Twitter"
+        },
+        {
+            "id": 16828,
+            "text": "Fedora de tiburón"
+        },
+        {
+            "id": 16827,
+            "text": "Tampa"
+        },
+        {
+            "id": 16826,
+            "text": "Buen cabello"
+        },
+        {
+            "id": 16825,
+            "text": "Primera cita"
+        },
+        {
+            "id": 16824,
+            "text": "Urano"
+        },
+        {
+            "id": 16823,
+            "text": "Casa de Satanás"
+        },
+        {
+            "id": 16822,
+            "text": "Hongos"
+        },
+        {
+            "id": 16821,
+            "text": "Correr sin pantalones"
+        },
+        {
+            "id": 16820,
+            "text": "Diabetes"
+        },
+        {
+            "id": 16819,
+            "text": "escuela de puercoespines"
+        },
+        {
+            "id": 16818,
+            "text": "Cirugía plástica"
+        },
+        {
+            "id": 16817,
+            "text": "Lucha injusta"
+        },
+        {
+            "id": 16816,
+            "text": "Sangre"
+        },
+        {
+            "id": 16815,
+            "text": "Cosas"
+        },
+        {
+            "id": 16814,
+            "text": "Buen bigote"
+        },
+        {
+            "id": 16813,
+            "text": "Pelea de mimos"
+        },
+        {
+            "id": 16812,
+            "text": "Graduación"
+        },
+        {
+            "id": 16811,
+            "text": "Pedos en la cara"
+        },
+        {
+            "id": 16810,
+            "text": "Incepción"
+        },
+        {
+            "id": 16809,
+            "text": "Cara que es feliz y triste"
+        },
+        {
+            "id": 16808,
+            "text": "Perro Asombroso"
+        },
+        {
+            "id": 16807,
+            "text": "Hombre Francés"
+        },
+        {
+            "id": 16806,
+            "text": "Poeta"
+        },
+        {
+            "id": 16805,
+            "text": "Bebé mamá"
+        },
+        {
+            "id": 16804,
+            "text": "Secundaria"
+        },
+        {
+            "id": 16803,
+            "text": "Ben Franklin"
+        },
+        {
+            "id": 16802,
+            "text": "Algunos de los Beatles"
+        },
+        {
+            "id": 16801,
+            "text": "Rent"
+        },
+        {
+            "id": 16800,
+            "text": "Mad Men"
+        },
+        {
+            "id": 16799,
+            "text": "Game of Thrones"
+        },
+        {
+            "id": 16798,
+            "text": "Pervertido"
+        },
+        {
+            "id": 16797,
+            "text": "Fiesta increíble"
+        },
+        {
+            "id": 16796,
+            "text": "Auto bebé"
+        },
+        {
+            "id": 16795,
+            "text": "Todo un desastre"
+        },
+        {
+            "id": 16794,
+            "text": "¡Estás aquí!"
+        },
+        {
+            "id": 16793,
+            "text": "Pubertad"
+        },
+        {
+            "id": 16792,
+            "text": "Hechicero matemático"
+        },
+        {
+            "id": 16791,
+            "text": "Hitler sin bigote"
+        },
+        {
+            "id": 16790,
+            "text": "Mujer fantasma"
+        },
+        {
+            "id": 16789,
+            "text": "Año bisiesto"
+        },
+        {
+            "id": 16788,
+            "text": "Moco elegante"
+        },
+        {
+            "id": 16787,
+            "text": "Chicas índigo"
+        },
+        {
+            "id": 16786,
+            "text": "Carne"
+        },
+        {
+            "id": 16785,
+            "text": "Papá Disco"
+        },
+        {
+            "id": 16784,
+            "text": "Prisión aterradora"
+        },
+        {
+            "id": 16783,
+            "text": "Panecillos calientes"
+        },
+        {
+            "id": 16782,
+            "text": "Fuerte Nerd"
+        },
+        {
+            "id": 16781,
+            "text": "GIF"
+        },
+        {
+            "id": 16780,
+            "text": "Rastro de caca"
+        },
+        {
+            "id": 16779,
+            "text": "Eres el peor"
+        },
+        {
+            "id": 16778,
+            "text": "Navidad terrible"
+        },
+        {
+            "id": 16777,
+            "text": "Negativo de foto"
+        },
+        {
+            "id": 16776,
+            "text": "Deshollinador francés"
+        },
+        {
+            "id": 16775,
+            "text": "Cara con flecha apuntando a la nariz"
+        }
+    ]
+}

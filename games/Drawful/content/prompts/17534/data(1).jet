@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "dum waiter|dumbwaiter|a dumb waiter",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Camarero tonto",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

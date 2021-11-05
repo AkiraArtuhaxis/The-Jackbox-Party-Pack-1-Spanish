@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "Pezón,Cama,Mirada,Arrepentimiento,Culpa,Sentido,Aliento,Hermano,Rugido,Secreto,Calzoncillo,Estómago,Eructo,Sueño,Clase,Regla,Mentón,Humor",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "Monja",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "Pedo",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "Pedorreo",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Los franceses tienen una pastelería llamada \"El/La <BLANK> de la monja\".",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "319013_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "319016_0",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

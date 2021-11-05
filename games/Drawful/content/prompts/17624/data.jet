@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "un pez guiñando",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Pez guiñando",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "370757_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

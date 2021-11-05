@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "estatua de la libertad versus godzilla|la estatua de la libertad versus godzilla|la estatua de la libertad vs godzilla",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Estatua de la Libertad vs Godzilla",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

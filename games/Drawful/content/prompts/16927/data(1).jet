@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Burger King skeleton|Burger kings skeleton|the Burger King’s skeleton",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Esqueleto de Burger King",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

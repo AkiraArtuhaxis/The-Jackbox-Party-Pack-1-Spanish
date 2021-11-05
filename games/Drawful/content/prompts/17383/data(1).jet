@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "cheating at tic tac to",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Hacer trampa en el tatetí",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

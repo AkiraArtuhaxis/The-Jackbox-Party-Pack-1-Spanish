@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Mujer en vestido de triángulo",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "370101_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

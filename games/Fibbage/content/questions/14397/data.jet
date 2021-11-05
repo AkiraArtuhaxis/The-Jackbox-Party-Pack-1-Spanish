@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "mono,cañón,arma,banda de marcha,equipo de película,mago,tanque de oxígeno,cama,maniquí,ataúd,robot,sacerdote,espada,mapache,jirafa,cama de bronceado,alcón,vagabundo",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "Mercury",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "llama",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "lama",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Freddie Mercury retiró de un dueto con Michael Jackson porque Jackson trajo un/a <BLANK> al estudio de grabación.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "320029_1",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "320032_0",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

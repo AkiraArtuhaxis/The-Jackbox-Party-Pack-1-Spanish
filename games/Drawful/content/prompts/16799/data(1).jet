@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Game of thornes|game of throes|game of throne",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Game of Thrones",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "368563_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

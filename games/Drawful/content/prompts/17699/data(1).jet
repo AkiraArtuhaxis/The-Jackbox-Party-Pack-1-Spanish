@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "half clock with arrow point at it|arrow pointing at half clock|arrow pointing at half a clock|arrow and half clock|half clock and arrow",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Medio reloj con una flecha apuntando a él",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

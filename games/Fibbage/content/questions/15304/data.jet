@@ -1,0 +1,53 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "el hacky sack,sacarse fotos,escultura,el baile de salón,golf frisbee,tejer,patinaje,el pilotaje de aviones,ballet,matemáticas,hornear pasteles,resolución de conflictos,los palos del diablo,colorear por números,yoga,nado sincronizado,la costura,el hacer muñecas",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "Eminem",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "Donkey Kong",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "jugar Donkey Kong,Donky Kong",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "El 3 de diciembre de 2009 y el 30 de marzo de 2010, el rapero Eminem tuiteó una foto demostrando que era sorprendentemente bueno en <BLANK>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "338274_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

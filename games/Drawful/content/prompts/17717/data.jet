@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "un documento falsificado|documento falso|un documento falso",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Documento falsificado",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

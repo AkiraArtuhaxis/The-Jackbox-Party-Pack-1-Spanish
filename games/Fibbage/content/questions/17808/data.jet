@@ -1,0 +1,53 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "Pequeñas Criminales,Feliz Crímenes,Muñecas Peligrosas,Pequeñas Infractoras de la ley,Compañeros de Prisión,Presos,Chicos Kool,Muñecas Malas,Problemillas,Los Orneros,Bebés Malos,Carceleros,Los Oh-Ohs,Abracitos,Malas Influencias,Compañeros de Fechorías,Fechorías Divertidas,Maestros de las Fichas Policiales",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "criminal",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "Thuggies",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Marca de las “muñecas criminales” para niños con nombres como Dickie el Traficante y Bonnie Anne Sobornos.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "372268_1",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

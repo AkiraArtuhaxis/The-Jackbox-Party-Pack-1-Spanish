@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "the Phantom of the Opera takes a shower",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "El Fantasma de la Opera se ducha",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "369582_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

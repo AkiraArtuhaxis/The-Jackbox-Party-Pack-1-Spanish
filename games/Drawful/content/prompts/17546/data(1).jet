@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "hamster eating skyscraper|a hamster eating a skyscraper",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "hamster comiendo un rascacielos",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "370218_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

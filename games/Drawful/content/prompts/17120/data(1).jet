@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "knight playing a guitar|a knight playing guitar|a knight playing a guitar",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Caballero tocando la guitarra",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

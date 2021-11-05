@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "candy stuck in the vending machine",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Caramelo atorado en máquina expendedora",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "370872_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

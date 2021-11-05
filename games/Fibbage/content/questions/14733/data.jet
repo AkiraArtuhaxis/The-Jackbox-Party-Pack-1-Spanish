@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "Hand,Share,First,Digital,Look Up!,Family,Fun,Everybody’s,Play,Battle,Pocket,Grab,Easy,Giant,Great,Need,My,Tiny",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "diccionario",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "Touch",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "La Nintendo DS tenía un programa de diccionario con el desafortunado nombre “<BLANK> Dic”.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "326817_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "326820_0",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "my pager is blowing up|my pagers blowing up",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "mi bíper está que explota",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "everyone knows you’re bald",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Todos saben que estás calvo",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "369185_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "viaje de raton|un viaje de ratón|un viaje de raton",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Viaje de ratón",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

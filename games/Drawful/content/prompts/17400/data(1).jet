@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "a plate on head|a plate on a head|plate on a head",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Plato en la cabeza",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "iglú,ambulancia,elevador,casa abierta,anexo,McDonald's,pajarera,sillón,Pizza Hut,oficina de optometrista,sala de eventos,IKEA,ICU,pensión alimenticia,tienda de Apple,disputa de pensión alimenticia,tienda de filetes,tienda de aceite",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "herido",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "galería de arte",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Según el Código Internacional de Enfermedades, el código Y92250 es el código para “cuando un paciente se lesiona en un/a <BLANK>”.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "337653_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "337656_0",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "balde de circulos|un balde de círculos|un balde de circulos",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Balde de círculos",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

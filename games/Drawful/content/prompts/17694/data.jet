@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "hipopotamo con una bazuca|un hipopótamo con una bazuca|un hipopotamo con una bazuca",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Hipopótamo con una bazuca",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "an outie bellybutton|a outie bellybutton",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Ombligo para afuera",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

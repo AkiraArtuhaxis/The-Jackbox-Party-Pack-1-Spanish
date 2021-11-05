@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "red hair kid|kid with red hair|a red haired kid",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Niño pelirrojo",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

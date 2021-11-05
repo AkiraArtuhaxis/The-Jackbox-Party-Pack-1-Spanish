@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "napkin with a tree on it|a napkin with a tree drawn on it",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Servilleta con un árbol dibujado sobre ella",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "370539_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

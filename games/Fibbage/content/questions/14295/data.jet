@@ -1,0 +1,53 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "banqueros internacionales,abogados,cocineros,boxeadores,modelos,guardias,basureros,modelos generales,bailarines de ballet,profesionales de póquer,camioneros,albañiles,contratistas,dentistas,especialistas en control de plagas,granjeros,oradores motivacionales",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "Mario y Luigi",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "conserjes",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "porteros,un conserje,conserje,limpiadores,limpiador,bedeles",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "<i>The New York Times<\/i> se vio obligado a realizar una corrección después de que identificaran incorrectamente a los personajes de Nintendo Mario y Luigi como <BLANK> en lugar de fontaneros.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "317809_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "hangover ninja|hung over ninja|a hung over ninja",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Ninja con resaca",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "370617_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

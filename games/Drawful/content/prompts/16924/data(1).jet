@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "batmans neighbor|batman neighbor",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Vecino de Batman",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

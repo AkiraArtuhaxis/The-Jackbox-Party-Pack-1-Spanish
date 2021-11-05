@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "esos chicos en el auto de esos comerciales de comida|tipos en el auto del comercial de comida|comercial de comida",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Esos tipos en el auto de los comerciales de comida",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "mis ojos están aquí arriba!|¡mis ojos estan aqui arriba!|¡mis ojos están aqui arriba!|¡mis ojos estan aquí arriba!|mis ojos estan aqui arriba!|mis ojos están aqui arriba!|mis ojos estan aquí arriba!|mis ojos están aquí arriba|mis ojos estan aqui arriba|mis ojos están aqui arriba|mis ojos estan aquí arriba",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "¡Mis ojos están aquí arriba!",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

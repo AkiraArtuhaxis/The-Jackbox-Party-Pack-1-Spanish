@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "una serpiente en una lavadora|serpiente en lavadora|una serpiente en lavadora",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Serpiente en una lavadora",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

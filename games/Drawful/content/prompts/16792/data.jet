@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "un hechicero matemático|hechicero matematico|un hechicero matematico",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Hechicero matemático",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "368549_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}
