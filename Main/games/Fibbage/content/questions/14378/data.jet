@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "serpientes,máquinas expendedoras,mayonesa,armas,uranio,marihuana medicinal,lentes de contacto,bebés,mordazas de bola,cañones de camisetas,cebollas,carne asada,collares de perro,teclados,máscaras de payaso,atún vivo,dientes de león",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "Máquina expendedora",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "porno",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "revistas porno,revistas prono,pornografía,revistas pornográficas,material pronográfico,videos porno,vids porno,videos pornográficos,vids pornográficos,videos de pornografía,vids de pornografía,videos de pornografia,vids de pornografia",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "En la estación de ferrocarril Meitestu-Nagoya en Japón, hay una extraña máquina expendedora que vende <BLANK>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "319592_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "319595_0",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

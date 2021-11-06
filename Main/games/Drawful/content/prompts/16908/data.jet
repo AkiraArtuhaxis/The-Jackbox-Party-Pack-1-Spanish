@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "autobus de monjas|un autobús de monjas|un autobus de monjas|el autobús de monjas|el autobus de monjas",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Autobús de monjas",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

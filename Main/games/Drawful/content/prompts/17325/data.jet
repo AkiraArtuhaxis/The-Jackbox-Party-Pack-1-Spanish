@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "un dibujo en un telefono|dibujo en un teléfono|dibujo en un telefono",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Un dibujo en un teléfono",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "369754_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "cavernicola descongelado abogado|un cavernícola descongelado abogado|un cavernicola descongelado abogado|cavernícola abogado|cavernicola abogado|un cavernícola abogado|un cavernicola abogado",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Cavernícola descongelado abogado",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "370675_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "un mimo ruidoso",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Mimo ruidoso",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "370857_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

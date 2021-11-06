@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "paquete grande|un paquete muy grande|un paquete grande",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Paquete muy grande",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

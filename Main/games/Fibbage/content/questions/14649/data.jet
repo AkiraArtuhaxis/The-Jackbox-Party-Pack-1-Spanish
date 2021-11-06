@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "espantapájaros,supermodelos,cajas de pañuelos,buzones,ovejas,abuelas,viudas,aspiradoras,tiendas,juguetes de piscina,calcetines,cajeros automáticos,caballos,piñatas,cafeteras,cabras,Furbys,fantasmas",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "1.000",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "autos",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "automóviles,coches",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Edward Smith de Yelm, Washington captó la atención de los medios de comunicación por afirmar de que tuvo relaciones sexuales con más de 1.000 <BLANK>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "325062_2",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "325065_2",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

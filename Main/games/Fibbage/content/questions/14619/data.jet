@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "Caca,Max,Traseros,Señorgay,Deuda,Factor,Cara,Pequeñín,Mujer,Grano,Chico,Champú,Enjuague,Caballo,Linterna,Lechuga,Orina,Trementina",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "inventor",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "Beso",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "El inventor del laxante Ex-Lax tiene el inusual nombre (traducido) Max <BLANK>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "324452_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "324455_0",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

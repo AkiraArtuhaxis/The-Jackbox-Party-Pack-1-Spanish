@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "doble arcoiris|un doble arcoíris|un doble arcoiris",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Doble arcoíris",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

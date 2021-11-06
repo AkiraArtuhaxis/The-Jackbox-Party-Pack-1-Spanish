@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "masturbarse,sextear,largarse,eructar,tirarse un pedo,hacer un chasquido,escupir,oler,tejer,cantar,saltar,textear,tallar,cocinar,hacer gárgaras,masticar chicle,impresionarse,tener hipo",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "Illinois",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "bostezar",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "hacer un bostezo,un bostezo",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Un espectador en una sala del tribunal de Illinois fue condenado a seis meses de cárcel por <BLANK> durante un juicio.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "318728_2",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "318731_0f",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

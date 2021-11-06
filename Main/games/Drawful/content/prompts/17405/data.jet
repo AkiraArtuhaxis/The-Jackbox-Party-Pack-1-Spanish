@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "no lo toques!|no lo toques",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "¡No lo toques!",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "pooty,tittles,frang,boozers,namblir,squawking,clustín,liguis,harmp,pog,warster,código estático,shiggles,cursetags,follatón,censuriosos,profass,blimpo",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "insultos",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "grawlix",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "El nombre de los símbolos aleatorios que se utilizan para indicar palabrotas en las historietas.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "334983_1",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "334986_0f",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "Pelos,El Hogar,La Casa,La Tumba,Las Manos,El Gato,La Silla,El Pañal,El Baño,La Repollo,El Amante,Los Dientes,El Sueño,El Aliento,El Perfume,El Error,La Cena de Jamón",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "787",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "El Suéter",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "El color de pintura 787 de Benjamin Moore tiene el extraño nombre <BLANK> de la abuela.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "336430_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "336433_0",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

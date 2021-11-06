@@ -1,0 +1,53 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "clip,lápiz,cinta métrica,pañuelo,portavasos,paraguas,aguacate,sombrero de fiesta,chaqueta de lluvia,engrapadora,máquina de coser,condón de látex,perro caliente,pollo,trapo,globo,cremallera,peine",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "fiesta",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "piña",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Aunque es común hoy en día, el/la <BLANK> era un símbolo de estatus tal en la Inglaterra del siglo XVIII que se podía alquilar uno/a por una noche para lucirlo/a en una fiesta.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "349430_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "mayonesa,bolas de pintura,pudín,mantequilla,uvas,insectos,calaveras,granos,papel de aluminio,ensalada de macarrones,flan,globos de agua,balones de fútbol NERF,envases de leche,granadas,pelotas de voleibol,papel burbuja,osos de peluche",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "E.T.",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "Gelatina",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "Jell-O,jello,gelatin,gelatina jell-o,gelatina jello",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "El sonido de E.T. caminando fue hecho por alguien aplastando <BLANK>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "321890_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

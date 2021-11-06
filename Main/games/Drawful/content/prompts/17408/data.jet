@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "caballo con cinturon de seguridad|un caballo con cinturón de seguridad|un caballo con cinturon de seguridad|caballo con un cinturón de seguridad|caballo con un cinturon de seguridad|un caballo con un cinturón de seguridad|un caballo con un cinturon de seguridad",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Caballo con cinturón de seguridad",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "369939_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

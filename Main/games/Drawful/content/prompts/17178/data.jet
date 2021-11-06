@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "throwback thursday|#tbt|#throwbackthursday",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "#throwbackthursday",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Ben franklen|ben franklan",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Ben Franklin",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "368571_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

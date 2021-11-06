@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "comen,ven un camión de helado,lloran,los despiden,hacen caca,van a funerales,fornican,sostienen cachorros,vomitan,se queman,mueren,ven un bebé,miran porno,abrazan a alguien,ven anuncios,bailan,huelen basura,se casan",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "Barcelona",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "escuchan música",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "oyen música,escuchan musica,oyen musica",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Según un estudio de la Universidad de Barcelona, sorprendentemente, el 5% de las personas no tienen absolutamente ninguna respuesta emocional cuando <BLANK>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "351715_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "351718_0",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

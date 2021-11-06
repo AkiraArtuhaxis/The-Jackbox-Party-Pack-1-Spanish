@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "pene,camión monstruo,barrilete,demonio,mujer desnuda,bong,metralleta,esvástica,murciélago,hombre lobo,bazuca,dedo del medio,explosión nuclear,par de tetas,piscina,trasero,zurullo",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "tumba",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "sillón",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "un sillón,sofá,un sofá",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Una mujer de Indiana demandó a un cementerio de la iglesia porque se negaron a instalar la tumba de su difunto marido con forma de <BLANK>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "320318_1",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "320321_0",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

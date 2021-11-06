@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "una asa con dos ventanas y sin puerta",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Casa con dos ventanas y sin puerta",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

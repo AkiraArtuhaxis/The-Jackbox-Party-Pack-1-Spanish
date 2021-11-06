@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "pizza de raton|una pizza de ratón|una pizza de raton",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Pizza de ratón",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

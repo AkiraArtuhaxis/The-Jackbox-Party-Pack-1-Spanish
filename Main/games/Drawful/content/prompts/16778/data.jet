@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "navidad terible|nabidad terrible|una navidad terrible",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Navidad terrible",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "368519_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "Conexión de Arcoiris,soy,Verde,K,Bebé Ranita,No es Fácil,¡Ahhh!,Nenúfar,Aliento Henson,Mañana Muppet,Muchos Saltitos,Palmeado,Kermie,Escencia de un Kermit,Escoria del Estanque,Eau de Rana,Salto,Ramo Verde",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "Kermit",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "Amphibia",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "El nombre de la colonia inspirada en Kermit the Frog fabricada por January Productions en 1995.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "332298_2",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "332301_1",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

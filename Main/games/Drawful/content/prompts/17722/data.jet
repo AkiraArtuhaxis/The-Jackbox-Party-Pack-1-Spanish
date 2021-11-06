@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "una bolsa con dientes aterradores",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Bolsa con dientes aterradores",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

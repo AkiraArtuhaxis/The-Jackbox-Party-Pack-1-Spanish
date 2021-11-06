@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "servilleta con un arbol dibujado sobre ella|una servilleta con un árbol dibujado sobre ella|una servilleta con un arbol dibujado sobre ella|servilleta con un árbol sobre ella|servilleta con un arbol sobre ella|una servilleta con un árbol sobre ella|una servilleta con un arbol sobre ella",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Servilleta con un árbol dibujado sobre ella",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "370539_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

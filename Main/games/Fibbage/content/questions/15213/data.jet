@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "criminal,delincuente sexual,menor,terrorista,racista,bruja,sacerdote,millonario,republicano,criatura del bosque,infiel,celebridad,espía,mal besador,mal amante,precoz,oficial de policía,cocinero",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "advertencias",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "pariente",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "La aplicación de Icelanders es una aplicación de teléfono que te advierte si la persona que te interesa románticamente es un/a <BLANK>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "336150_1",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "336153_1",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "gigante con un bebe pequeño|un gigante con un bebé pequeño|un gigante con un bebe pequeño",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Gigante con un bebé pequeño",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

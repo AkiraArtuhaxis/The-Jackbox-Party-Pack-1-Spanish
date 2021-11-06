@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "sangre de canguro,agua del inodoro,anti-anticongelante,orina,salsa de tomate,sangre,gasolina,té helado de mango,lágrimas humanas,café,agua muy fría,Red Bull,Dr. Pepper,Sprite,más anticongelante,champú para pulgas,bilis,Agua vitaminada",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "anticongelante",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "vodka",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Después de consumir anticongelante, a un terrier maltés en Australia se le salvó la vida cuando los veterinarios le dieron de beber <BLANK>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "355544_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "355547_1",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

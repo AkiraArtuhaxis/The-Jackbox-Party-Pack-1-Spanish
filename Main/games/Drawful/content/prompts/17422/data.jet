@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "copos de azucar sin azucar|copos de azúcar sin azucar|copos de azucar sin azúcar|copos de asúcar sin asúcar|copos de asucar sin asucar|copos de asúcar sin asucar|copos de asucar sin asúcar",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Copos de azúcar sin azúcar",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

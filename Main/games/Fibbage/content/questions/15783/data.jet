@@ -1,0 +1,53 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "desnudo,transparente,muerto,feo,hinchado,con Dios,volando,cansado,aterrorizado,en llamas,al revés,más guapo,bajo el agua,cubierto de abejas,con el sexo opuesto,con alguien exitoso,con un personaje animado",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "espejo",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "sonriendo",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "En 2013, investigadores de la Universidad de Tokio desarrollaron el reflejo incendiario, un espejo que hace que parezca que estás <BLANK>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "349240_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "iglú,fuerte de almohadas,nave espacial Lego,esqueleto de vaca,espalda de caracol,casa de vidrio,cuña de queso,auto de montaña rusa,estatua de ellos mismos,lavadora,ballena muerta,huerto de calabazas,casa para aves,televisor ahuecado,castillo flotante,sobre,burbuja de jabón,globo de nieve",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "órbita",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "rueda de hámster",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "rueda de hamster,rueda de hampster,rueda de ratón,rueda de raton,rueda de jerbo",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "La obra de arte de Ward Shelley y Alex Schweder “En Órbita”, que se exhibió en una galería en Nueva York, presentaba a dos hombres que vivían en un/a <BLANK> gigante por 10 días.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "350608_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "350611_0",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

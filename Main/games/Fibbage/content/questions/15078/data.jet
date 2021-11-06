@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "Primero,¿Estás despierto?,Estoy en camino,¿Funcionó?,Imagen porfis,Esto cambia todo.,Nuevo teléfono. ¿Quién es?,Vamos a almorzar.,Probando,Me gustan los sándwiches,Watson, estás ahí,¿Cogemos?,adflakdsja,Perro caliente,Mi nombre es Niel,¿Y ahora?,Funciona,Haba-duey",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "mensaje de texto",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "Feliz Navidad",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "El primer mensaje de texto enviado fue por Neil Papworth en 1992. Envió el mensaje de texto: “<BLANK>”.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "334037_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "334040_0",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

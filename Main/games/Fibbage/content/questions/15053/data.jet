@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "actor,tuiteador,papi,horneador,recordador,Libertario,flosser,patinador,nadador,vegano,hechicero,jugador de Sudoku,enólogo,obrero,mofo,jugador de Cranium,poeta,encantador de caballos",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "mal",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "jugador de bolos",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "¡TUIT DE CELEBRIDAD!    9:43 PM - 1 de octubre de 2013   @MikeTyson tuiteó: \"Soy un mal <BLANK>\".",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "333462_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "333465_0",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "lobo con iman gigante|un lobo con imán gigante|un lobo con iman gigante|lobo con un imán gigante|lobo con un iman gigante|un lobo con un imán gigante|un lobo con un iman gigante",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Lobo con imán gigante",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

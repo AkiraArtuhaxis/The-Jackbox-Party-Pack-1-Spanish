@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "mensaje de mama|un mensaje de mamá|un mensaje de mama",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Mensaje de Mamá",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "la Statue of Liberty,la Mona Lisa,el Mount Rushmore,una pelota de básquet,el Fuerza Aérea Uno,el Pensador,el Coliseo,la Casa Blanca,la Gran Muralla China,la Gran Esfinge,una bola de hilo,un lápiz,cuatro autos,una montaña rusa,el Big Ben,un espantapájaros,una pizza,un trofeo de boliche",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "casada",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "la torre Eiffel",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "torre eiffel,la torre eiffle,la torre eifle",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "En 2007, una mujer con un trastorno poco común que la atraía sexualmente por objetos inanimados se casó con <BLANK>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "321451_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "321454_0",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

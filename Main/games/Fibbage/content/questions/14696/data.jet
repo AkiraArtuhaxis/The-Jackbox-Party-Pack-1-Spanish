@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "Cucharas,Edwins,Dedos del pie,Dados,Monóculos,Narices,Steves,Contadores,Cleveland,Arenas para Gato,Lodos,Arenas,Cabello Púbico,Huesos de Ratón,Cajas,Violines,Pelusas,Portavasos",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "escribió",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "Dedales",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "el dedal",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Edwin E. Holmes, un hombre con intereses muy específicos, escribió el libro de 254 páginas \"Una historia de los/as <BLANK>\".",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "326017_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "326020_1",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

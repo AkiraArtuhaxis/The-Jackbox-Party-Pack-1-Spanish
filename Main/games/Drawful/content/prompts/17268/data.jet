@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "bebe steampunk|un bebé steampunk|un bebe steampunk",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Bebé Steampunk",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

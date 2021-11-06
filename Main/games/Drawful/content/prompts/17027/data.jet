@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "conversacion incomoda|conversación incomoda|conversacion incómoda|una conversación incómoda|una conversación incomoda|una conversacion incómoda",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Conversación incómoda",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

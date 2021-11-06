@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "no deberiamos haber comprado esta casa|no debimos haber comprado esta casa",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "No deberíamos haber comprado esta casa",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

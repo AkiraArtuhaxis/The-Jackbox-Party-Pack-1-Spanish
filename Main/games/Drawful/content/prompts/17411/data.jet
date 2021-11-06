@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Necesito café!|¡Necesito cafe!|Necesito cafe!|Necesito café|Necesito cafe",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "¡Necesito café!",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

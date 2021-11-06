@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "una oferta en colchones|oferta de colchones|una oferta de colchones",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Ofertas en colchones",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

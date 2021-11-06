@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "dragón escondido|un dragón escondido|un dragon escondido",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Dragón escondido",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "368785_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

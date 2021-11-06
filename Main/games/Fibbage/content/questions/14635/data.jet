@@ -1,0 +1,53 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "Salón,Fiesta,Living,Bar,Teatro,Soirée,Piscina,Tienda,Tertulia,Kegger,Foro,Parada,Centro Comercial,Dormitorio,Orgía,Balde,Gala,Fiesta de Salchichas",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "Pacífico",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "Cafetería",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "Café",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "El área en el Océano Pacífico donde los grandes tiburones blancos se congregan cada primavera se llama <BLANK> del Tiburón Blanco.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "324768_2",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

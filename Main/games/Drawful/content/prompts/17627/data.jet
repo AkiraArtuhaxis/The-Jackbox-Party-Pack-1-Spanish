@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Resolucion de Año Nuevo",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Resolución de Año Nuevo",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "370768_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

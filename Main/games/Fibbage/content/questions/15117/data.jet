@@ -1,0 +1,53 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "dango,Cube-O,blarg,loopy loop,stampers,scalpers,cage ball,pista de mesa,ecstasy,cajas,huzzah,espacios,páginas,comunal,XO’s,a gritar,cuadrados,tarjetas aleatorias",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "bingo",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "beano",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "bean-o,beeno,bean o",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "En los EE.UU., el nombre original del juego de bingo.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "334937_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

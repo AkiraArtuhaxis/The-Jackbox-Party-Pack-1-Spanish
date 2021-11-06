@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "caracol y sobre|sobre y caracol|sobre con caracol",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Caracol con sobre",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

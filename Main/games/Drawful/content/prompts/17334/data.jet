@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "una encimera de granito",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Encimera de granito",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "369772_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "un Papá Disco|papa disco|un papa disco",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Papá Disco",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

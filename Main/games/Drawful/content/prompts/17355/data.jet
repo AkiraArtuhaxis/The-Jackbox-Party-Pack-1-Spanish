@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "50 sombras de Gray|cincuenta sombras de grey|cincuenta sombras de gray",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "50 sombras de Grey",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

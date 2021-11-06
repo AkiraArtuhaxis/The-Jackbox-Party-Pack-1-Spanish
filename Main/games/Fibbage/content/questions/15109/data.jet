@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "libros,partituras,manoplas,sombreros,comida para perros,campanas,trampolines,ropa interior,tambores,azadas,zapatos,cometas,lápices,trineos,almohadas,dominó,tazas,buzones de correo",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "Samsung",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "fideos",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Samsung comenzó como una empresa que fabricaba este producto de baja tecnología.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "334753_1",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "334756_0",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

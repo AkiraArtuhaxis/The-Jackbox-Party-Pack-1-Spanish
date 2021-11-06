@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "maní,bolsa de vomitar,revista de avión,bloque de queso,pañuelo,boina,pajita,mouse de computadora,bolsa de pretzels,corbata,juego de llaves,proyector portátil,par de anteojos para leer,tampón,condón,sombrero de capitán,reloj,pequeña taza de bebida",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "drenaje",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "perchero",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "percha de alambre,percha",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Durante un vuelo de una aerolínea en 1995, el Dr. Angus Wallace y el Dr. Tom Wong realizaron un drenaje torácico exitoso en un pasajero usando un tubo de goma, brandy y un/a <BLANK>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "339013_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "339016_0",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

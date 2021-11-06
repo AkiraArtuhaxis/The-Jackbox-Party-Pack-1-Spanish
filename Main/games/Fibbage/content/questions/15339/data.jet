@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "salidas,disparejas,gigantes,de alguien más,raras,de un tipo viejo,irritadas,desnudas,perfectas,cuadradas,de mujer,musculares,fabulosas,amplias,olorosas,aterradoras,apretables",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "nalgas",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "peludas",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "con pelo,con mucho pelo,muy peludas,con cabello, con mucho cabello",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Dasypygal es un adjetivo que significa “tener nalgas <BLANK>”.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "339082_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "339085_0",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

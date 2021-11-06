@@ -1,0 +1,53 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "curling,bolos,billar,futbolín,dardos,voleibol,bádminton,slamball,kickball,béisbol,barras asimétricas,wakeboarding,compras,tiro con arco,lucha en el barro,trineo,ajedrez,disc golf",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "Maryland",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "justas a caballo",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "la justa,justa,justas",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "El deporte estatal oficial de Maryland es <BLANK>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "318301_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

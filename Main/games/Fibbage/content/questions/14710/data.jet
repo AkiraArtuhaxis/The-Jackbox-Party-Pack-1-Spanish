@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "Español,la Vida,a Bailar,Programación de Computadora,Karate,Pasión,a Besar,Lucha de Sumo,Química,Póquer,a Pescar,Cocina Gourmet,Religión,las reglas de tráfico,Ética,a Nadar,Básquetbol,la ciencia del refrigerador",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "Chad",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "Física",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Chad Orzel escribió el libro <i>Cómo enseñarle <BLANK> a tu perro<\/i>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "326311_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "326314_0",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

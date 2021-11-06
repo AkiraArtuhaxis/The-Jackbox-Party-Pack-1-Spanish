@@ -1,0 +1,53 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "bailar,dar direcciones erróneas,magia,cantar,escuchar,tomar una siesta,luchar,olvidarse,tener sexo,perdonar,cucharear,pilates,tragarse espadas,hacer risotto,pensar,manos de jazz,golpear un mapache,un álbum de recortes",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "mago",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "llorar",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "En su propio sitio web, el mago David Blaine escribió una vez: “El acto más valiente que puede hacer un hombre es <BLANK>”.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "321689_1",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "¡A correr a buscar pizza!",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "370242_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

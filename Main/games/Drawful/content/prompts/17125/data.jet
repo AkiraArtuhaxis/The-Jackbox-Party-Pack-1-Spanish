@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "fanatico del basquetbol|fanático del basquetbol|fanatico del básquetbol|un fanatico del básquetbol|un fanatico del basquetbol|un fanático del basquetbol|un fanatico del básquetbol",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Fanático del básquetbol",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

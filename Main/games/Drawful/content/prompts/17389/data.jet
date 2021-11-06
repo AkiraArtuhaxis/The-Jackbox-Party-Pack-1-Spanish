@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "navidad canibal|una navidad caníbal|una navidad canibal",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Navidad caníbal",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

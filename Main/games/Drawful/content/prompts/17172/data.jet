@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "pelea de graduacion|una pelea de graduación|una pelea de graduacion",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Pelea de graduación",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

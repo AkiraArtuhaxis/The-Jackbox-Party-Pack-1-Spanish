@@ -1,0 +1,53 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "esfera,plana,cono,corazón,pentágono,pera,cilindro,pirámide,triángulo,baguette,cono,rombo,óvalo,cometa,rectángulo,trapezoide,L,decágono",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "caca",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "cubo",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "un cubo",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "La forma de la caca de wombat.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "334776_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

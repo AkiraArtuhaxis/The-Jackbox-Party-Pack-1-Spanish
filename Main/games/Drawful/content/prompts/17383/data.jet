@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "hacer trampa en tres en raya",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Hacer trampa en el tres en raya",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

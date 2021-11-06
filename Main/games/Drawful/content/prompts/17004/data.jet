@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "peor provincia|la peor provincia de todas|el peor estado|peor estado|el peor estado de todos",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "La peor provincia",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

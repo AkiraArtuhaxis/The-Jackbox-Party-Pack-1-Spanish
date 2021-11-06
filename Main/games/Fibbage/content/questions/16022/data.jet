@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "se laven las manos,tiren de la cadena dos veces,se propongan a su cita,trapeen el piso,tiren la cadena de cortesía,sonrían,realmente se miren en el espejo,llamen a sus padres,hagan caca en menos de 5 minutos,enciendan un fósforo,no consuman cocaína,apaguen sus celulares,no coman el calamar,hagan caca en silencio,sean gentiles con el papel higiénico,se arreglen su cabello,prendan un fósforo",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "indicaba",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "se sienten cuando orinen",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "se sienten cuando estén orinando,se sienten cuando esten orinando,se sienten cuando estén por orinar,se sienten cuando esten por orinar,orinen sentados,orinen mientras están sentados,orinen mientras estan sentados,se sienten mientras orinen",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "El personal del restaurante Edible Canada colocó un letrero en su baño que indicaba a los hombres que <BLANK>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "354485_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "354488_0",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

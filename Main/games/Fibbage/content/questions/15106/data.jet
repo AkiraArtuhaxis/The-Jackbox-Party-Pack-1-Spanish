@@ -1,0 +1,53 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "Champ,Lance,Laika,Joe,Buzz,Compañero,Caballo,Señor Calabaza,Pat,Eddie,Burbujas,Chimpancé,Bananas,Canicas,Galleta,Ayuda,Capitán,Sr. Patty",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "chimpancé",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "Ham",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "hamm",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "El nombre del primer chimpancé enviado al espacio.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "334684_1",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

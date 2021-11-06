@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "dinosaurio,diente,perro,metralleta,auto,alien,labios,prostituta,mochila,pene,sala,hombre lobo,baño,contador,vampiro,transgénero,presidente,lagarto",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "cera",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "bebé",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "En 2006, el museo de cera Madame Tussaud’s en la ciudad de Nueva York introdujo su primer/a <BLANK> de cera.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "321318_2",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "321321_0",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

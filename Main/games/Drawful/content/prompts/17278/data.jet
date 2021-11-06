@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "palindromo|palíndrono|palindrono|un palíndrono|un palindrono|un palíndromo|un palindromo",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Palíndromo",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

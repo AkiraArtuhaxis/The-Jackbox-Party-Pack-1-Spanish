@@ -1,0 +1,53 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "estatua federal,castillo inflable,vaca,iglesia,señal de pare,espantapájaros,buitre,boa constrictor,inodoro portátil,tren,bola de hilo,bola de heno,playa,centro comercial,cartelera,pelota de playa gigante,rueda de la fortuna,pato",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "explotar",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "ballena muerta",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "ballena,ballena varada",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "El 12 de noviembre de 1970, George Thornton, un ingeniero de carreteras en Oregon, tuvo el inusual trabajo de explotar un/a <BLANK>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "335473_1",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

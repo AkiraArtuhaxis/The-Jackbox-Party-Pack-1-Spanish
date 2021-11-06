@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "el baile del cuadrado|baile cuadrado|el baile cuadrado",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Baile del cuadrado",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

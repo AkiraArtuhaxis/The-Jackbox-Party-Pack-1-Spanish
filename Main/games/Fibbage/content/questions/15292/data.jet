@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "Estudios de ocio,Comuncaciones,poesía del siglo XVIII,Poesía,Justicia Criminal,Sociología,Antropología,Arqueología,Teología,Periodismo,Geología,Finanzas,Estudios de Género,Baile Moderno,Historia del Arte,Medios de comunicación masivos,Historia Militar,Agricultura",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "Gallagher",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "Ingeniería química",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "ingeniero químico",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "El cómico de utilería Gallagher, conocido por romper sandías con un mazo, obtuvo un título universitario en el campo de <BLANK>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "337998_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "338001_0",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

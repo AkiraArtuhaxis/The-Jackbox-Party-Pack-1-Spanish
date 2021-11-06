@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "un clip de papel,lasaña,tijeras,un periódico,libros de biblioteca,sus meñiques,un iPhone,pensamientos positivos,pelos de nariz,caca de rata,llaves,plantillas de zapatos,pasta de dientes,dentaduras,un martillo,un diccionario,lentes de lectura,un cortaúñas",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "Prisión italiana",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "hilo dental",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "seda dental",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "En el 2000, un jefe de la mafia en una prisión italiana escapó de su celda usando solo <BLANK>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "338875_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "338878_0",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

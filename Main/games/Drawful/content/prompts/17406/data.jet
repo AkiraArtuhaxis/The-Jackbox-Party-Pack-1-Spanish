@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "corte de cavernicola|un corte de cavernícola|un corte de cavernicola",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Corte de cavernícola",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

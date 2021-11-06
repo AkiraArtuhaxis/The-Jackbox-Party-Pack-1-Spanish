@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "botón perdido|un botón perdido|un boton perdido",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Botón perdido",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

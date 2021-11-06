@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "bebés,Republicanos,mujeres solamente,los muertos,perros,gatos,astronautas,monjas,fantasmas,mujeres embarazadas,peces,prisioneros,piratas,sandías,muñecas,elfos,pesistas,presidentes",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "Tecnología",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "vacas",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "la población de vacas,bovinos,el ganado,una vaca",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Advanced Comfort Technology crea camas de agua para <BLANK>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "322959_1",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "322962_0",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

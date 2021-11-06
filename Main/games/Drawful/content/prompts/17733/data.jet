@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "alguien con pretzels saliendole de la nariz",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Alguien con pretzels saliéndole de la nariz",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

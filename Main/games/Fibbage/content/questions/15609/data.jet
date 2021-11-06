@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "A montar a caballo,A Bailar en un Salón,Origami,Breakdancing,A Cocinar,A Hacer Paisajismo,A Hablar en Público,A Fundir,A Contar Chistes,A Hacer Pinturas,A Boxear,Inglés,A Sonreír,HTML",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "Putin",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "Judo",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "El presidente ruso Vladimir Putin lanzó un DVD en 2008 llamado <i>Aprendamos <BLANK> con Vladimir Putin<\/i>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "345325_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "345328_0",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

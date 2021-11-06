@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "un boleto de guardarropa|boleto de guardaropa|un boleto de guardaropa",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Boleto de guardarropa",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

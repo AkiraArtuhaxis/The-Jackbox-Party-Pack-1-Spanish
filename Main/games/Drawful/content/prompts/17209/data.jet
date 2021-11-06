@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "trampolin en el espacio|un trampolín en el espacio|un trampolin en el espacio",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Trampolín en el espacio",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

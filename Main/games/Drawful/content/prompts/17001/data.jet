@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "un hombre sin cara|hombres sin cara",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Hombre Sin Cara",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

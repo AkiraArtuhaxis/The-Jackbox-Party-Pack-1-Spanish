@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "ladron pavo|un ladrón pavo|un ladron pavo",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Ladrón pavo",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

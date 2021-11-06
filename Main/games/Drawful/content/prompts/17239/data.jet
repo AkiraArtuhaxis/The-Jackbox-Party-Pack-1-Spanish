@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "el Fantasma de la Opera se ducha|Fantasma de la Ópera se ducha|Fantasma de la Opera se ducha",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "El Fantasma de la Ópera se ducha",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "369582_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

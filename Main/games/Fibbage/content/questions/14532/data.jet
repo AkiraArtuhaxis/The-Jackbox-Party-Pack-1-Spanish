@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "hombre muerto,ardilla,sándwich,ladrillo,monstruo,conejo,preadolescente,peluquera,estafador,fantasma,Canadiense,caballo,perro caliente,pizza,modelo nudista,cantante de ópera,mimo",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "Hash",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "perro",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "canino,un perro",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "El alcalde de Rabbit Hash, KY es un/a <BLANK>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "322708_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "322711_0",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

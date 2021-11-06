@@ -1,0 +1,53 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "Pedorrear a Full,Vete a Cagar,La Almohadilla de Gas,¡Olor No!,Obra de Pedos,Ropedo Interior,Almoantalones,Tarjetas de Basura,Máscara de Gas,Apesta Otra Vez,Caga lo Necesario,Tírate un Pedo Libremente,Tapones A Tope,Chupetes de Viento,Compañeros de Ano,Solución de Polución de Aire,¿Gas Qué?,Que Pedo Sea",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "ropa interior",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "Trasero sutil",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Nombre (traducido) del producto de la almohadilla “neutralizadora de gas” que insertas en tu ropa interior, fabricada por la compañía Solutions That Stick.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "320410_1",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

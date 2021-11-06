@@ -1,0 +1,53 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "gasolina,bayas silvestres,algodón de azúcar,papas fritas,vagabundo,naranjas,lavanda,miel,ropa limpia,una tormenta a medianoche,malvaviscos,contaminación,chile,orina de pantera,donas,salsa para pasta,jamón,regaliz",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "orina",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "palomitas de maíz",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "pochoclo,palomitas con mantequilla",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Según el libro de no ficción <i>Los tigres devoradores de hombres de Sundarbans<\/i>, la orina de tigre “huele algo así como <BLANK>”.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "335496_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

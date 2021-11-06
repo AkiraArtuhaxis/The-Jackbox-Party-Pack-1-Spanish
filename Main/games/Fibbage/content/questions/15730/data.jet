@@ -1,0 +1,53 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "calvos,viejos,de negocios,divorciados,borrachos,solteros,orinando,religiosos,muy altos,desempleados,travestis,recién casados,irlandeses,de leche,fantasma,carteros,zombis,basureros",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "sonámbulos",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "desnudos",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "sin ropa",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "La cadena de hoteles económicos Travelodge informó que entre 2006 y 2007 alrededor del 95% de los sonámbulos encontrados en sus hoteles eran hombres <BLANK>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "348027_2",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

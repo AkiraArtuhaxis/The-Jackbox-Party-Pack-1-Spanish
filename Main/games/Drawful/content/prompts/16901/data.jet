@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "corbatas de papa|las corbatas de papá|las corbatas de papa",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Corbatas de papá",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

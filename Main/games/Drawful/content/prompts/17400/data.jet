@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "un plato en la cabeza|un plato en una cabeza|plato en una cabeza|plato en la cabeza",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Plato en la cabeza",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

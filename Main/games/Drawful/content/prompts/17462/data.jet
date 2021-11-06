@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Pastel de bodas para cucarachas",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Pastel de bodas para cucarachas",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "sujetador push-up|un sujetador push up|un sujetador push-up",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Sujetador push up",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

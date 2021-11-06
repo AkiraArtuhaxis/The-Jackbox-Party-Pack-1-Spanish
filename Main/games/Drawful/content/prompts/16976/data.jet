@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "las chicas de oro",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Chicas de oro",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "368919_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

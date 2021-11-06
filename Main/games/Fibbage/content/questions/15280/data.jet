@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "calefactor,laptop,pavo dentro,lanzallamas,manta eléctrica,locomotora de vapor,calentador de manos,antorcha Tiki,radiador,vela,pistola de pato,horno de Easy,plato caliente,horno de tostador,cañón,bombilla,motor de auto,encendedor",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "pato",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "secador de pelo",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "secador,secadora,secadora de pelo,secador de cabello,secadora de cabello,secador de cabellos,secadora de cabellos,secador de pelos,secadora de pelo",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Marcella Hazan es la gurú culinaria que fue pionera en la inusual técnica de cocinar pato con un/a <BLANK>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "337722_1",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "337725_0",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

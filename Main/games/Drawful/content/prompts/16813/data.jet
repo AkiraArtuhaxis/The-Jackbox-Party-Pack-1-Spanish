@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "una pelea de mimos",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Pelea de mimos",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "368591_0f",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "jet ski con ruedas|un jetski con ruedas|un jet ski con ruedas",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Jetski con ruedas",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

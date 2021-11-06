@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "Casa de Satán|Casa de Satanas|Casa de Satan|La Casa de Satanás|La Casa de Satán|La Casa de Satanas|La Casa de Satan",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Casa de Satanás",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

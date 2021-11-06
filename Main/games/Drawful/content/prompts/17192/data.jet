@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "caida de confianza|una caída de confianza|una caida de confianza",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Caída de confianza",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

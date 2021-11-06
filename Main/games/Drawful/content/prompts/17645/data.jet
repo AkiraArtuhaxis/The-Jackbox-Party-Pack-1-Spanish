@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "tonto",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Un tonto",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "370839_1",
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

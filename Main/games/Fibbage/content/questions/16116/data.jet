@@ -1,0 +1,53 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "maestro,asesino serial,conejo,viajero del tiempo,caballo,monje,piscinero,vagabundo,senador,paquete de carne seca,mula,estatuoa,rey,deflín,abuelo de una amiga,cactus,perro,presidente",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "Lucy",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "fantasma",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "En una entrevista de 1999 con <i>US Weekly<\/i>, la actriz Lucy Liu reveló que una vez tuvo sexo con un\/a <BLANK>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "356553_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

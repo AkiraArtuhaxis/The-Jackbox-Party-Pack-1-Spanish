@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "piedras,ácido de batería,brillantina,espuma de poliestireno,electricidad,caca,arsénico,diamantes,tinta,chocolate,telarañas,sándwiches de jamón,fósiles,aceite,vidrio,humanos pequeños,mocos",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "raro",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "cerveza",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "En 2013, un hombre en Texas fue diagnosticado con un síndrome poco común que convierte la comida que come en <BLANK> en su estómago.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "352214_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "352217_2",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

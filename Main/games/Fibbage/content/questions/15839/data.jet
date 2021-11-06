@@ -1,0 +1,53 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "hacer imitaciones,tener hipo,hacer stripping,comer velas,aplaudir,decir “teta”,cortar su cabello,besar,cantar,reir,pintar,dormir,azotar vacas,tirarse pedos,ladrar,jugar golf,hacer malabares,llorar",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "Francia",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "bailar",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "En 1518, cientos de personas en Estrasburgo se vieron afectadas por una extraña condición que les impidió dejar de <BLANK>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "350459_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

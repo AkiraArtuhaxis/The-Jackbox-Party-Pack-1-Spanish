@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "hacer un globo en forma de animal|hice un globo en forma de animal",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Haciendo un globo en forma de animal",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "gnomes,el monstruo del Lago Ness,profesores,MILFS,cobradores de préstamos,hombres lobo,pingüinos,demonios,hadas,el decano de la escuela,estudiantes,conejos feos,a Pie Grande,elfos,nerds,fantasmas,ardillas,arcoiris",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "cazar",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "unicornios",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "un unicornio",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "La Universidad Estatal de Lake Superior ofrece una licencia bizarra. La licencia te da derecho a cazar <BLANK>.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "354200_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "354203_0",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

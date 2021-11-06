@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "Cabeza de Rhode,Encrosti,Rompetestas,Willy Genial,Capt. Pito,Dan Dong,Mancha el Tigre,Rigidón,El Esperma,Palpitación,Caricias,Caña,Profesor Erección,Magnum,Kyle de un ojo,P. Ne,Ding-A-Ling,Gallo Quemaduras",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "hockey",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "Escroti",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "Scroti",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Nombre de la mascota de hockey con forma de pene de la Escuela de Diseño de Rhode Island.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "358944_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "358947_0f",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

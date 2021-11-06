@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "club de striptease,parada de camiones,guarida de opio,museo de cera,perrera,planta de tratamiento de residuos,fábrica de pegamento,santuario de simios,prisión,banco de esperma,burdel,estación de policía,matadero,restaurante,hospital de animales,casa de baños,molino de viento,campo de tiro",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "miniatura",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "casa funeraria",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "casa fúnebre,funeraria,casa funebre,casa velatoria",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Ahlgrim Acres es un campo de golf en miniatura de nueve hoyos extrañamente ubicado en un/a <BLANK> de Illinois.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "345860_1",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "345863_0",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

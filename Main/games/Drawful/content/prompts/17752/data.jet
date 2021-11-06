@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "salir en pantalones deportivos",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Saliendo en pantalones deportivos",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

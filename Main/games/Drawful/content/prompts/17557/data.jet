@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "mordida de dragon pequeño|una mordida de dragón pequeño|una mordida de dragon pequeño",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Mordida de dragón pequeño",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}

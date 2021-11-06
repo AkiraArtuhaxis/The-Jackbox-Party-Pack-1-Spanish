@@ -1,0 +1,54 @@
+{
+    "fields": [
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "v": "true",
+            "t": "B",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "v": "leer Braille,levantar pesas,poner una mesa,pintar sus uñas,jugar Candy Crush,resolver un cubo Rubik,limpiar,disparar leche,enrollar un porro,comer espaguetis,limpiar un arma,tocar la guitarra,bañarse,orinar,cortar el césped,hablar,hacer malabares,hacer yoga",
+            "t": "S",
+            "n": "Suggestions"
+        },
+        {
+            "v": "nariz",
+            "t": "S",
+            "n": "Category"
+        },
+        {
+            "v": "tipear",
+            "t": "S",
+            "n": "CorrectText"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "Stamp"
+        },
+        {
+            "v": "",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Mohammed Khurshid Hussain está en el <i>Libro Guinness de los récords mundiales<\/i> porque es capaz de <BLANK> muy rápidamente con su nariz.",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "v": "350904_0",
+            "t": "A",
+            "n": "QuestionAudio"
+        },
+        {
+            "v": "350907_1",
+            "t": "A",
+            "n": "CorrectAudio"
+        }
+    ]
+}

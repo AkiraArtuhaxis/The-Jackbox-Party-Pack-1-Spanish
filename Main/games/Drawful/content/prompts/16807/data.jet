@@ -1,0 +1,23 @@
+{
+    "fields": [
+        {
+            "v": "false",
+            "t": "B",
+            "n": "HasJokeAudio"
+        },
+        {
+            "v": "un hombre francés|hombre frances|un hombre frances",
+            "t": "S",
+            "n": "AlternateSpellings"
+        },
+        {
+            "v": "Hombre Francés",
+            "t": "S",
+            "n": "QuestionText"
+        },
+        {
+            "t": "A",
+            "n": "JokeAudio"
+        }
+    ]
+}
