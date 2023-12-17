@@ -6,12 +6,12 @@
             "n": "HasJokeAudio"
         },
         {
-            "v": "un golfista de perros salchicha",
+            "v": "un perro salchicha golfista|un golfista dachshund|golfista dachshund",
             "t": "S",
             "n": "AlternateSpellings"
         },
         {
-            "v": "golfista de perros salchicha",
+            "v": "perro salchicha golfista",
             "t": "S",
             "n": "QuestionText"
         },
