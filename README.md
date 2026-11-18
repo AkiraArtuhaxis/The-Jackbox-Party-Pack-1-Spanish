@@ -2,9 +2,9 @@
 
 Parche de traducción no oficial de [Jackbox en español](https://traducciones.jackbox.lol/) para The Jackbox Party Pack. Este repositorio es utilizado por [Jackbox Utility](https://github.com/JackboxUtility).
 
-- **Estado de traducción:** Todos los juegos menos You Don't Know Jack 2015 fueron traducidos.
+- **Estado de traducción:** Todos los juegos fueron traducidos.
 - **Estado de doblaje:** Drawful tiene doblaje.
-- **Versión:** 16.4-ES
+- **Versión:** 16.5-ES
 - **Plataformas soportadas:** Steam, Epic Games Store, Nintendo Switch
 
 ## Cómo utilizar
